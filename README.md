@@ -27,9 +27,6 @@
 <a href="#ig"> Installation Guide </a>
 </li>
 <li> 
-<a href="#docs"> Documentation </a> 
-</li>
-<li> 
 <a href="#licenses"> License </a> 
 </li>
 <li> 
@@ -45,6 +42,12 @@ WolfCare is an online application that manages the health portfolio of the patie
 <br>
 
 <h2 id = "target audience"> Target Audience </h2>
+
+WolfCare targets uses who would like to check the presence of any medical conditions and book an appointment with a doctor. 
+
+<br>
+
+<h2 id = "ig"> Installation Guide </h2>
 
 WolfCare targets uses who would like to check the presence of any medical conditions and book an appointment with a doctor. 
 

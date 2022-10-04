@@ -2,8 +2,8 @@
 
 <div align="center">
  
-  <a href="https://github.com/divyagiridhar/CSC510_Group25_HW02">
-    <img src="https://img.shields.io/github/repo-size/divyagiridhar/CSC510_Group25_HW02?color=brightgreen">
+  <a href="https://github.com/divyagiridhar/SE-Group-25-WolfCare.git">
+    <img src="https://img.shields.io/github/repo-size/divyagiridhar/SE-Group-25-WolfCare?color=brightgreen">
   </a>
  </div>
 

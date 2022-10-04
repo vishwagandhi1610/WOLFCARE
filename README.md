@@ -8,10 +8,7 @@
 <a href="#target audience"> Target Audience </a> 
 </li>
 <li> 
-<a href="#gs"> Getting Started </a>
-</li>
-<li> 
-<a href="#ins"> User Instructions to run WolfCare </a>
+<a href="#ig"> Installation Guide </a>
 </li>
 <li> 
 <a href="#docs"> Documentation </a> 

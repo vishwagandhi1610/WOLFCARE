@@ -1,4 +1,3 @@
-# WolfCare
 
 <p align="center"><img src="https://github.com/divyagiridhar/SE-Group-25-WolfCare/blob/Divya/images/wolf.png" alt="alt text" width=200 height=200>
   

@@ -49,6 +49,6 @@ WolfCare targets uses who would like to check the presence of any medical condit
 
 <h2 id = "ig"> Installation Guide </h2>
 
-WolfCare targets uses who would like to check the presence of any medical conditions and book an appointment with a doctor. 
+
 
 <br>

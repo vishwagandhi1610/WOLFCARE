@@ -1,6 +1,10 @@
 # WolfCare
 
-<div align="center">
+<p align="center"><img src="https://github.com/divyagiridhar/SE-Group-25-WolfCare/blob/Divya/images/wolf.png" alt="alt text" width=200 height=200>
+  
+  <h1 align="center"> WolfCare </h1>
+  
+<h2 align="center"> Online Doctor Appointment and Symptoms Checker </h1>
  
   <a href="https://github.com/divyagiridhar/SE-Group-25-WolfCare.git">
     <img src="https://img.shields.io/github/repo-size/divyagiridhar/SE-Group-25-WolfCare?color=brightgreen">

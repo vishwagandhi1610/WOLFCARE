@@ -1,5 +1,15 @@
 # WolfCare
 
+<div align="center">
+ 
+  <a href="https://github.com/divyagiridhar/SE-Group-25-WolfCare.git">
+    <img src="https://img.shields.io/github/repo-size/divyagiridhar/SE-Group-25-WolfCare?color=brightgreen">
+  </a>
+  <a href="https://zenodo.org/badge/latestdoi/544594767">
+    <img src="https://zenodo.org/badge/544594767.svg" alt="DOI">
+  </a>
+ </div>
+
 <h2> Table of Contents </h2>
 <li> 
 <a href="#overview"> About WolfCare </a> 

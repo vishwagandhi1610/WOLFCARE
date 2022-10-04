@@ -1,4 +1,11 @@
-# WolfCare
+## WolfCare
+
+<div align="center">
+ 
+  <a href="https://github.com/divyagiridhar/CSC510_Group25_HW02">
+    <img src="https://img.shields.io/github/repo-size/divyagiridhar/CSC510_Group25_HW02?color=brightgreen">
+  </a>
+ </div>
 
 <h2> Table of Contents </h2>
 <li> 

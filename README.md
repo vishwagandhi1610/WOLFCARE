@@ -11,6 +11,9 @@
   <a href="https://zenodo.org/badge/latestdoi/544594767">
     <img src="https://zenodo.org/badge/544594767.svg" alt="DOI">
   </a>
+  <a href="https://github.com/divyagiridhar/SE-Group-25-WolfCare/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/divyagiridhar/SE-Group-25-WolfCare">
+  </a>
  </div>
 
 <h2> Table of Contents </h2>
@@ -35,3 +38,11 @@
 <li> 
 <a href="#help"> Help </a>
 </li>
+
+<h2 id = "overview"> About WolfCare </h2>
+
+Software Engineering CSC 510 Project 1
+
+WolfCare is an online application that manages the health portfolio of the patient and provides doctor’s assistance through an online portal. A virtual doctor appointment booking system overrides the problems of booking an appointment manually. It is convenient, helps in better resource management and aids in syncing of calender schedules. This project provides a platform for the users to create an account, search for doctors at a given location, view the doctor's background and book appointments. Additionally, we have included a symptoms check where users can add theor test report values and view the results of a medical condition.  
+
+<br>

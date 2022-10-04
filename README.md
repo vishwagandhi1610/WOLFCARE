@@ -1,5 +1,5 @@
 
-<p align="center"><img src="https://github.com/divyagiridhar/SE-Group-25-WolfCare/blob/Divya/images/wolf3.jpeg" alt="alt text" width=800 height=400>
+<p align="center"><img src="https://github.com/divyagiridhar/SE-Group-25-WolfCare/blob/Divya/images/wolf3.jpeg" alt="alt text" width=700 height=300>
   
   <h1 align="center"> WolfCare </h1>
   

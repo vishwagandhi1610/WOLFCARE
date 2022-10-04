@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use our code, please cite it as below."
+authors:
+- family-names: "Ghevariya"
+  given-names: "Ravi"
+- family-names: "Giridhar"
+  given-names: "Divya"
+- family-names: "Patel"
+  given-names: "Dhruv"
+- family-names: "Titus"
+  given-names: "Shreyas" 
+- family-names: "Patel"
+  given-names: "Manan" 
+title: "CSC 510 Software Engineering: Project 1 - Group 25:"

@@ -11,7 +11,7 @@
 <a href="#gs"> Getting Started </a>
 </li>
 <li> 
-<a href="#ins"> Instructions to run the Tests and Display Results </a>
+<a href="#ins"> User Instructions to run WolfCare </a>
 </li>
 <li> 
 <a href="#docs"> Documentation </a> 

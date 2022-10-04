@@ -2,7 +2,7 @@
 
 <h2> Table of Contents </h2>
 <li> 
-<a href="#overview"> Overview </a> 
+<a href="#overview"> About WolfCare </a> 
 </li>
 <li> 
 <a href="#target audience"> Target Audience </a> 

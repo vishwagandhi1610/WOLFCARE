@@ -1,0 +1,77 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Booking Success</title>
+    <style>
+        body {
+            margin: 0;
+            font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+        }
+        .topnav {
+            padding-right: 40px;
+            padding-left: 20px;
+            overflow: hidden;
+            height: 50px;
+            background-color: #333;
+            position: sticky;
+        }
+        .topnav a {
+            float: right;
+            color: #f2f2f2;
+            text-align: center;
+            padding: 14px 16px;
+            text-decoration: none;
+            font-size: 20px;
+        }
+          
+        .topnav a:hover {
+            background-color: #ddd;
+            color: black;
+        }
+        .topnav #home-button{
+            float: left;
+        }
+        .topnav #back-btn{
+            float: left;
+        }
+        header {
+            height: 55px;
+            padding-top: 20px;
+            font-size: 30px;
+            text-align: center;
+            font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+        }
+        .container{
+            width: 98%;
+            margin-left: 1%;
+            border: 1px solid black;
+            height: 400px;
+            text-align: center;
+            padding-top: 40px;
+            margin-top: 40px;
+        }
+    </style>
+</head>
+<body>
+    <header>My Doctor</header>
+    <div class="topnav">
+        <a href="../php/temp_homepage2.php" id="back-btn">Back</a>
+        <a href="../html/homepage.html" id="home-button">Home</a>
+        <form method="post">
+        <!-- <input type="text" name="search-bar" id="search-bar" placeholder="Enter location or type" onkeyup="showUser(this.value)"> -->
+        <!-- <input type="submit" name="search" value="Search" id="search"> -->
+        </form>
+        <a href="#about"><?php echo $_SESSION['name'];?></a>
+        <a href="#news">News</a>
+        <a href="#contact">Contact</a>
+      
+    </div>
+    <div class="container">
+        <h1>Appoitment Booked!!</h1>
+        
+        <a href="../php/temp_homepage2.php"><p>Visit Home to book more appointment</p></a>
+    </div>
+</body>
+</html>

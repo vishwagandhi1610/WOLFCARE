@@ -38,6 +38,11 @@ input[type="email"] {
   color: #adefd1ff;
   font-size: 17px;
 }
+
+::placeholder { 
+  color: white;
+  opacity: 1; 
+  
 .login-box p {
   height: 20px;
   font-size: 18px;
@@ -58,7 +63,8 @@ input[type="email"] {
   font-size: 20px;
 }
 a:link {
-  color: #fff;
+  color: black;
+  text-shadow: black 2px 2px 3px ;
   text-decoration: none;
 }
 

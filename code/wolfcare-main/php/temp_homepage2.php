@@ -50,7 +50,7 @@
         <i class="fas fa-bars" id="sidebar_btn"></i>
       </label>
       <div class="left_area">
-        <h3>My <span>Doctor</span></h3>
+        <h3>Wolf Care</h3>
       </div>
       <div class="right_area">
         <form method="post">

@@ -53,6 +53,10 @@ WolfCare targets uses who would like to check the presence of any medical condit
 
 <br>
 
+<h2 id = "licenses"> Licenses </h2>
+
+> <a href="https://github.com/divyagiridhar/SE-Group-25-WolfCare/blob/main/LICENSE"> MIT </a> License is used in this project. 
+<br>
 
 <h2 id = "help"> Help </h2>
 You can email any queries to the contributors - 

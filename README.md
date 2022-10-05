@@ -52,3 +52,31 @@ WolfCare targets uses who would like to check the presence of any medical condit
 
 
 <br>
+
+
+<h2 id = "help"> Help </h2>
+You can email any queries to the contributors - 
+<br>
+<li>
+    <a href = "mailto: rghevar@ncsu.edu">Ravi Ghevariya</a>
+</li>
+<li>
+    <a href = "mailto: divyagiridhar97@gmail.com">Divya Giridhar</a>
+</li>
+<li>
+    <a href = "mailto: shreyastitus@gmail.com">Shreyas Titus</a>
+</li>
+<li>
+    <a href = "mailto: dpatel49@ncsu.edu">Dhruv Patel</a>
+</li>
+<li>
+    <a href = "mailto: mrpatel8@ncsu.edu">Manan Patel</a>
+</li>
+<br>
+
+<hr>
+  <p id="cb" align = "center">
+  |&nbsp; Ravi Ghevariya &nbsp;| &nbsp;Dhruv Patel &nbsp;|&nbsp; Manan Patel &nbsp;|&nbsp; Divya Giridhar &nbsp;|&nbsp; Shreyas Titus |
+  </p>
+  
+<hr>

@@ -26,4 +26,29 @@
             }); // end of document ready function                    						
 		</script>
 	</head>
+	<body>
+        <div class="topmessage">
+            <div class="message">This operation was good</div>
+            <div class="messageclose" title='Close'>x</div>            
+        </div>
+        <div class = "modalTemplate">
+            <div class="modalclose" title='Close'>x</div>
+            <div id="modalmessage">
+            </div>
+            <div></div>
+        </div>
+        <div class="associationTemplate" style='display:none'>
+            <div class="associationclass">AND</div>
+        </div>
+        <div class="associationGroupTemplate" style='display:none'>
+            <div class="associationgroupclass">AND</div>
+        </div>
+		<div id = "conditionTemplate" style="display:none">
+			<div class="acondition">
+				<select class="lhs"></select>&nbsp;&nbsp;
+				<select class="operator"></select>&nbsp;&nbsp;
+				<select class="rhs"></select>&nbsp;&nbsp;
+				<button class="removecondition" style="background-color:red;border-color:red">- Remove</button>
+			</div>
+		</div>
  </html>

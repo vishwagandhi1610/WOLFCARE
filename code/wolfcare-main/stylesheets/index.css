@@ -1,0 +1,110 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Josefin Sans", sans-serif;
+}
+header {
+  background-image: url("../images/loginpage.jpg");
+  width: 100%;
+  height: 100vh;
+  background-position: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+section{
+  margin-top: -130px;
+  /* border-radius: 25px;
+  background: grey;
+  padding: 20px;
+  object-fit: contain;
+
+   width: 460px;
+  height: 230px;
+  top: 50%;
+  left: 80%;
+  position: absolute;
+  transform: translate(-50%, -50%);
+  box-sizing: border-box;
+  padding: 20px 30px;
+  border-radius: 35px; */
+}
+
+nav {
+  width: 100%;
+  height: 10vh;
+  background: #a40313;
+  color: white;
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+}
+
+nav .logo {
+  width: 25%;
+  text-align: center;
+  display: inline-block;
+}
+
+main {
+  margin: auto;
+  padding: 11%;
+  width: 100%;
+  height: 85vh;
+  /* display: flex; */
+  justify-content: center;
+  align-items: center;
+  text-align: right;
+}
+
+/* h1, img {
+  display: inline-block;
+} */
+
+
+section h3 {
+  font-size: 35px;
+  color: black;
+  font-weight: 200;
+  letter-spacing: 3px;
+  text-shadow: 1px 1px 2px 2px;
+  margin-top: 40px;
+}
+
+section h1 {
+  margin: 30px 0 20px 0;
+  font-size: 55px;
+  font-weight: 700;
+  text-shadow: 2px 1px 5px black;
+  text-transform: uppercase;
+}
+
+section p {
+  font-size: 25px;
+  color: black;
+  word-spacing: 2px;
+  margin-bottom: 30px;
+  margin-top: 25px;
+}
+
+section a {
+  padding: 12px 30px;
+  border-radius: 4px;
+  outline: none;
+  text-transform: uppercase;
+  font-size: 13px;
+  font-weight: 500;
+  text-decoration: none;
+  letter-spacing: 1px;
+}
+
+section .btnone {
+  background: white;
+  color: #000;
+}
+
+section .btntwo {
+  background: #a40313;
+  color: white;
+}

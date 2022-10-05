@@ -97,4 +97,39 @@
             <!-- <p style='display:none'>Want to test with custom set of rule descriptors and rules? Load json with the descriptors and then add rules<button>Load custom rule descriptors</button></p>This will load the custom value parameters as defined in the json and wipe away the predefined medical rules. The user has to add new rules based on the loaded value parameters -->
             <!-- <input type='checkbox' id="displayassoc"/>Turn on associations display for editable version of the rules? -->
         </div>
+		<div id="tabs-container">
+			<ul class="tabs-menu">
+				<!-- <li class="current addtab"><a href="#tab-1">Create Rule</a></li>
+				<li><a href="#tab-2" class="edittab">View/Edit Rule</a></li> -->
+                <li><a href="#tab-3" class="testtab">Check Symptoms</a></li>
+			</ul>
+			<!-- <div class="tab">
+				<div id="tab-1" class="tab-content">					
+					<div id="addrule">
+						<div class="namecomponent">
+							<span>&nbsp;Comorbidity Name: <input type="text" class="rulename"/></span>
+							&nbsp;&nbsp;<span class="nameerror"></span>
+						</div>
+                        <div class="categorycomponent">
+							<h4><input class="hassubcategory" type="checkbox"/>Does "<span class="declaredrule"></span>" have subcategories? <span style='color:lightgrey'>(Check the box if subcategories are present)</span></h4>
+						</div>
+						<div class="preselectcomponent">
+							<div class = "preselect">
+								<h2><span class="expandcollapse">+</span><a href = "#">Lab Dictionary</a><span class="helpdict">(Use this for preselecting lab values to describe the rule)</span></h2>
+								<div style="margin:20px">								
+									<select class="multipreselect" multiple="multiple" size="5" style="width: 60%">
+									</select><span>Type within the box to search and preselect lab values for the rule</span> 
+								</div>
+							</div>
+						</div>						
+						<div class = "ruleconditioncomponent">							
+						</div>
+						<div class="addAnother">
+							<button>Add another subcategory</button>
+						</div>
+						<div align="right" style="margin:10px">
+							<button class="saveAdd">Save</button>
+						</div>						
+					</div> <!--End of Add Rule-->					
+				<!-- </div> -->
 </html>

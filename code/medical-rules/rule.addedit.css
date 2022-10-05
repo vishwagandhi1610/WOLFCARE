@@ -1,0 +1,466 @@
+/**
+ * @author Jugu Dannie Sundar <jugu [dot] 87 [at] gmail [dot] com>
+ */
+.addAnother {
+    margin:10px;
+    display:none;
+}
+.addAnother button {
+    background-color:blue;
+    border-color:blue;
+    color:white
+}
+a.conditionlabvalue, a.conditionsubrule {
+    cursor:pointer;
+}
+
+body {
+	font-family: arial
+}
+
+button {
+    background-color:#5cb85c;
+    color:white;
+    display: inline-block;
+    padding: 2px 2px;
+    margin-bottom: 0;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1.5;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    -ms-touch-action: manipulation;
+    touch-action: manipulation;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    background-image: none;
+    border: 1px solid #5cb85c;
+    border-radius: 4px;
+}
+
+button.clear {
+    background-color : brown;
+    color : white;
+    border-color : brown;
+}
+button.delete {
+    background-color:red;
+    color:white;
+    border-color:red;
+}
+button.export {
+    background-color : brown;
+    color : white;
+    border-color : brown;
+}
+button.groupcondition {
+    padding:1px;
+    margin:0px;
+    background-color:grey;
+    border-color:grey;
+}
+button.removecategory {
+    background-color:red;
+    border-color:red
+}
+button.removegroupcondition {
+    background-color:red;
+    border-color:red;
+}
+button.reset {
+    border-color: indigo;
+    color: white;
+    background-color: indigo;
+}
+button.updateform {
+    background-color: grey;
+    border-color: grey;
+}
+.categorycomponent{
+    margin: 10px;
+}
+
+div.acondition {
+    padding: 10px;
+    margin: 10px;
+    background-color:white;
+}
+div.acondition .lhs {
+    /*width:20%;*/
+}
+div.acondition input {
+    width:50px;
+    margin-left:5px; 
+    margin-right: 5px
+}
+div.acondition .rhs {
+    /*width:20%;*/
+}
+div.associationclass {
+    margin-left: 20px;
+    color:dodgerblue;
+    /*display:none;*/
+}
+div.associationgroupclass {
+    margin-left:70px;
+    margin-top:-20px;
+    color:dodgerblue;
+    /*position:absolute;*/
+    /*top:45%;*/
+    /*display:none;*/
+}
+div.message {
+    float:left;
+    width:80%
+}
+div.messageclose {    
+    color: #aaaaaa;
+    font-size: 28px;
+    float:left;
+    width:20%;
+    text-align: left;
+    font-weight: bold;
+}
+div.messageclose:hover,
+div.messageclose:focus {
+    color: #000;
+    cursor: pointer;
+}
+div.definedrules {
+    height:auto;
+}
+div.definedrules p {
+    border-left:1px solid;
+    border-top:1px solid;
+    border-bottom:1px solid;
+    height:30px;
+    margin:0px;
+    cursor: pointer;
+    font-size: 16px;
+    font-family: verdana;
+}
+
+div.definedrules p:hover {
+    background-color: chocolate;
+   /* color: white;*/
+}
+
+div.groupclass {
+    margin-top:10px;
+    margin-left:10px;
+}
+div.helpnote {
+    color: grey;
+}
+div.labvalueformdiv {
+    cursor:pointer;
+}
+div.modalclose {    
+    color: #aaaaaa;
+    text-align:right;
+    margin:10px;
+    font-size: 28px;
+    font-weight: bold;
+}
+div.modalclose:hover,
+div.modalclose:focus {
+    color: #000;
+    cursor: pointer;
+}
+div.modalTemplate {
+    display:none;
+    position:fixed;    
+    background-color: white;
+    top:30%;
+    left:25%;
+    width:50%;
+    height:100px;
+    z-index:  5;
+}
+div#modalmessage {
+    margin:10px;
+}
+
+div.ruleTemplate {
+    position:relative;
+    margin-top:5px;
+    margin-bottom:30px;
+    margin-left:50px;
+    margin-right:20px;    
+    background-color:blanchedalmond;
+    border-left: 5px solid brown;
+    border-top: 1px solid brown;
+    border-right: 1px solid brown;
+    border-bottom: 1px solid brown;
+}
+
+div.ruleTemplate p.conditionclass {
+    margin-top: 10px;
+    margin-bottom:30px;
+    margin-left:50px;
+    margin-right:10px;
+    border-left:5px solid brown;
+}
+div.showlogicalform {
+    display: none;
+    cursor: pointer;
+    margin-top:2px;    
+    margin-bottom:25px;
+    margin-left:50px;
+    margin-right:20px;
+    font-size: 20px;
+    text-align: center;    
+}
+div.showlogicalform:hover,
+div.showlogicalform:focus{
+    /*background-color: sandybrown;*/
+    color:blueviolet;
+    font-weight: bold;
+    text-decoration: underline;
+}
+div.topmessage {
+    position: fixed;
+    z-index: 100;
+    top : 0;
+    width: 100%;
+    height: 40px;
+    background-color: #dff0d8;
+    border-color: #dff0d8;
+    color: black;
+    font-size: 20px;
+    display:none;
+}
+div.vieweditparent {
+    width:100%; 
+    height: 90%;
+    position:relative;
+}
+
+div.vieweditparent .vieweditleft {
+    position:absolute;
+    left:0%;
+    margin-top:10px;
+    height: 98%;
+    overflow-y: auto;
+    border-right:2px solid black;
+    width:15%;
+}
+
+div.vieweditparent .vieweditright {
+    position:absolute;
+    left:15%;
+    width:80%;
+    margin:10px;
+}
+#declaredrule {
+	font-weight: bold;
+	font-size:20px;
+}
+.helpdict {
+    color:lightgrey;
+    font-size:15px;
+    font-weight: normal;
+}
+.nameerror {
+    color: red;
+}
+.isrulevalid {
+    margin:5px;
+    text-align: right;
+    color:red;
+}
+.namecomponent {
+    margin:20px;
+}
+.multiple {
+    width:50px;
+    margin-left:5px;
+    margin-right:5px;
+}
+.multipreselect {
+    margin:10px;
+    width: 60%;
+}
+option.otherdefined {
+    background-color:aliceblue;
+}
+p.selected_edit_rule {
+    background-color: chocolate;
+    color:white;
+}
+.preselect {
+    margin:10px;
+    border:1px solid #5eaaeb;
+}
+.preselectcomponent {
+}
+.preselect h2{      
+    margin:0px;
+    font-size: 20px;
+    padding-bottom : 5px;
+    background-color: #337ab7;
+    color: white;
+    cursor:pointer;
+    border: 1px solid #337ab7;
+    border: 1px solid #337ab7;
+}			          
+.preselect h2 a {
+    margin: 10px;
+    color: inherit;
+    text-decoration: none;               
+}               			
+.ruleconditions {
+    margin: 10px;
+    border:1px solid #dff0d8;
+}			
+.ruleconditions h2{      
+    margin:0px;
+    padding:5px;
+    font-size: 20px;
+    background-color: #dff0d8;
+    color: #3c763d;
+    cursor: pointer;
+    border: 1px solid #dff0d8;
+    border: 1px solid #dff0d8;
+}						
+select {
+    height: 30px;
+    width: 20%;
+    font-size:20px;
+}
+
+input[type=text] {
+	height:30px;
+	width:300px;
+	font-size:18px;
+	font-weight:bold;
+}
+
+input.inputforany {
+    width:45px;
+    margin-left:5px;
+    font-size:18px;
+	font-weight:bold;
+    height:30px;
+}
+
+.successdiv {
+    margin-top:10px;
+    background-color:paleturquoise;
+}
+.tabs-menu {
+    height: 30px;
+    margin-bottom:0px;
+	padding-left:0px;
+    clear: both;
+}
+
+.tabs-menu li {
+	list-style-type: none;
+    height: 30px;
+    line-height: 30px;
+    float: left;
+	color: black;
+    margin-right: 10px;    
+	background-color: #f6f6f6;
+    border-top: 1px solid #d4d4d1;
+    border-right: 1px solid #d4d4d1;
+    border-left: 1px solid #d4d4d1;
+}
+
+.tabs-menu li.current {
+    position: relative;
+	color: white;
+    background-color: #007fff;
+    border-bottom: 1px solid #fff;
+    z-index: 5;
+}
+
+.tabs-menu li a {
+    padding: 10px;
+    /*text-transform: uppercase;*/
+    text-decoration: none; 
+}
+
+.tabs-menu .current a {
+    color: white;
+}
+
+.tab {
+    border: 1px solid #d4d4d1;
+    background-color: #fff;
+    /*float: left;*/
+    margin-bottom: 20px;
+    width: auto;
+}
+
+.tab-content {
+    width: 100%;
+    /*padding: 20px;*/
+    display: none;
+}
+
+#tab-1 {
+ display: block;   
+}
+
+.textform {
+    margin-top:5px;
+    margin-left:20px;
+    margin-bottom:5px;
+}            
+.textrule {
+    border:2px solid red;
+    font-size:20px; 
+    font-weight:bold;
+    overflow-y:auto;
+    overflow-x:hidden;
+}
+span.subruletext {
+    margin-left:5px;
+    color:grey;
+    font-size:18px;
+}
+span.textForAny {
+    color:blueviolet;
+}
+
+/* The container <div> - needed to position the dropdown content */
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+/* Dropdown Content (Hidden by Default) */
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+}
+
+/* Links inside the dropdown */
+.dropdown-content a {
+    color: black;
+    padding: 4px 4px;
+    text-decoration: none;
+    display: block;
+}
+
+/* Change color of dropdown links on hover */
+.dropdown-content a:hover {background-color: #a4b0c5}
+
+/* Show the dropdown menu on hover */
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+/* Change the background color of the dropdown button when the dropdown content is shown */
+.dropdown:hover .dropbtn {
+    background-color: #3e8e41;
+}

@@ -182,7 +182,7 @@ header {
   text-decoration: none;
 }
 .footer p {
-  /* float: left; */
+  float: left;
   display: inline;
   margin-left:30px;
   color: white;

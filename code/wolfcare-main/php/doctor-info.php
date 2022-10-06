@@ -17,7 +17,7 @@
         <!-- <input type="text" name="search-bar" id="search-bar" placeholder="Enter location or type" onkeyup="showUser(this.value)"> -->
         <!-- <input type="submit" name="search" value="Search" id="search"> -->
         </form>
-        <a href="#about"><?php echo $_SESSION['name'];?></a>
+        <a href="profile.php"><?php echo $_SESSION['name'];?></a>
       
     </div>
     

@@ -14,6 +14,9 @@
   <a href="https://github.com/divyagiridhar/SE-Group-25-WolfCare/blob/main/LICENSE">
     <img src="https://img.shields.io/github/license/divyagiridhar/SE-Group-25-WolfCare">
   </a>
+  <a href="https://github.com/divyagiridhar/SE-Group-25-WolfCare/graphs/contributors">
+    <img src="https://img.shields.io/github/contributors/divyagiridhar/SE-Group-25-WolfCare">
+  </a>
 </div>
 
 <h2> Table of Contents </h2>

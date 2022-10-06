@@ -5,7 +5,7 @@
 .login-box {
   width: 460px;
   height: 420px;
-  background: #111;
+  background: #a40313;;
   color: whitesmoke;
   top: 50%;
   left: 80%;
@@ -27,6 +27,7 @@ h2 {
   width: 100%;
   margin-bottom: 30px;
 }
+
 .login-box input[type="text"],
 input[type="password"],
 input[type="email"] {
@@ -37,12 +38,12 @@ input[type="email"] {
   height: 40px;
   color: #adefd1ff;
   font-size: 17px;
+  
 }
-
 ::placeholder { 
   color: white;
   opacity: 1; 
-  
+}
 .login-box p {
   height: 20px;
   font-size: 18px;
@@ -69,12 +70,12 @@ a:link {
 }
 
 a:visited {
-  color: #fff;
+  color: rgb(255, 255, 255);
   text-decoration: none;
 }
 
 a:hover {
-  color: #fff;
+  color: yellow;
   text-decoration: none;
 }
 a:active {

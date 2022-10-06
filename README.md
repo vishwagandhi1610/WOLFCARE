@@ -46,7 +46,10 @@ WolfCare targets uses who would like to check the presence of any medical condit
 <br>
 
 <h2 id = "ig"> Installation Guide </h2>
-
+<ul>
+<li> Clone the Github repository in your local system. </li> 
+<li> This project uses xampp, so make sure to install xampp in your system. All the requirements of the project are listed in the `requirements.txt` file. </li>
+</ul>
 <br>
 
 <h2 id = "licenses"> Licenses </h2>

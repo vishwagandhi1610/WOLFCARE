@@ -1,4 +1,4 @@
-<p align="center"><img src="/images/Project Banner.png" alt="alt text" width=700 height=300>
+<p align="center"><img src="/images/ProjectBanner.png" alt="alt text" width=700 height=300>
   
  <h1 align="center"> WolfCare </h1>
   

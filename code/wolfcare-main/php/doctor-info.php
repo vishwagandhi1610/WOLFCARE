@@ -10,7 +10,7 @@
     <title><?php echo $_SESSION['doc_info']['doc_fname']." ".$_SESSION['doc_info']['doc_lname']; ?></title>
 </head>
 <body>
-    <header>My Doctor</header>
+    <header>Wolf Care</header>
     <div class="topnav">
         <a href="temp_homepage2.php" id="back-btn">Back</a>
         <a href="homepage.html" id="home-button">Home</a>

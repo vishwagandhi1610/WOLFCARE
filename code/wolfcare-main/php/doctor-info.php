@@ -13,14 +13,11 @@
     <header>Wolf Care</header>
     <div class="topnav">
         <a href="temp_homepage2.php" id="back-btn">Back</a>
-        <a href="homepage.html" id="home-button">Home</a>
         <form method="post">
         <!-- <input type="text" name="search-bar" id="search-bar" placeholder="Enter location or type" onkeyup="showUser(this.value)"> -->
         <!-- <input type="submit" name="search" value="Search" id="search"> -->
         </form>
         <a href="#about"><?php echo $_SESSION['name'];?></a>
-        <a href="#news">News</a>
-        <a href="#contact">Contact</a>
       
     </div>
     

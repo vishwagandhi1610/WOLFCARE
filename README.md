@@ -78,7 +78,7 @@
 
 <h2 id = "overview"> About WolfCare </h2>
 
-WolfCare is an online application that manages the health portfolio of the patient and provides doctor’s assistance through an online portal. A virtual doctor appointment booking system overrides the problems of booking an appointment manually. It is convenient, helps in better resource management and aids in syncing of calender schedules. This project provides a platform for the users to create an account, search for doctors at a given location, view the doctor's background and book appointments. Additionally, we have included a symptoms check where users can add their test report values and view the results of a medical condition.  
+WolfCare is an online application that manages the health portfolio of the patient and provides doctor’s assistance through an online portal. A virtual doctor appointment booking system overrides the problems of booking an appointment manually. It is convenient, helps in better resource management and aids in syncing of calender schedules. This project provides a platform for the users to create an account, search for doctors at a given location, view the doctor's background and book appointments. Additionally, we have included a symptoms check where users can add theor test report values and view the results of a medical condition.  
 <br>
 
 <h2 id = "flowchart"> Flowchart </h2>
@@ -149,6 +149,9 @@ WolfCare targets uses who would like to check the presence of any medical condit
 <h2 id = "ig"> Installation Guide </h2>
 <ul>
 <li> Clone the Github repository in your local system. </li> 
+``` bash
+git clone https://github.com/divyagiridhar/SE-Group-25-WolfCare.git
+```
 <li> This project uses xampp, so make sure to install xampp in your system. All the requirements of the project are listed in the `requirements.txt` file. </li>
 </ul>
 <br>

@@ -1,7 +1,7 @@
 <h1 align="center"> Welcome to the Home Page of our Website </h1>
 <br>
 
-<img src="documentation/home.png">
+<img src="home.png">
 
 <h3> About Home Page </h2>
 

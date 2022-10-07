@@ -178,6 +178,9 @@ WolfCare targets uses who would like to check the presence of any medical condit
 <br>
 <hr>
 <p> <strong> Still not getting it? Confused? Of course we are the saviours and creators, you can take a look at the video tutorial given below.</strong></p>
+
+https://user-images.githubusercontent.com/30078834/194672106-53b41cd8-fc84-40a3-874e-a51936059b86.mp4
+
 <hr>
 <br>
 

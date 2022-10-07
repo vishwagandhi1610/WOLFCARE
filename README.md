@@ -8,6 +8,9 @@
   <a href="https://github.com/divyagiridhar/SE-Group-25-WolfCare/actions/workflows/python-app.yml">
     <img src="https://github.com/divyagiridhar/SE-Group-25-WolfCare/actions/workflows/python-app.yml/badge.svg">
   </a>
+  <a href="https://github.com/divyagiridhar/SE-Group-25-WolfCare/actions/workflows/Coverage.yml">
+    <img src="https://github.com/divyagiridhar/SE-Group-25-WolfCare/actions/workflows/Coverage.yml/badge.svg">
+  </a>
   <a href="https://github.com/divyagiridhar/SE-Group-25-WolfCare.git">
     <img src="https://img.shields.io/github/repo-size/divyagiridhar/SE-Group-25-WolfCare?color=brightgreen">
   </a>

@@ -35,14 +35,14 @@
   <a href="https://github.com/divyagiridhar/SE-Group-25-WolfCare/tags">
     <img src="https://img.shields.io/github/v/tag/divyagiridhar/SE-Group-25-WolfCare?color=9cf">
   </a>
-  <a href="https://github.com/divyagiridhar/SE-Group-25-WolfCare/network/members">
-    <img src="https://img.shields.io/github/forks/divyagiridhar/SE-Group-25-WolfCare?style=social">
-  </a>
   <a href="https://github.com/divyagiridhar/SE-Group-25-WolfCare">
     <img src="https://img.shields.io/github/languages/count/divyagiridhar/SE-Group-25-WolfCare">
   </a>
   <a href="https://github.com/divyagiridhar/SE-Group-25-WolfCare">
     <img src="https://img.shields.io/github/languages/top/divyagiridhar/SE-Group-25-WolfCare?color=ff69b4">
+  </a>
+  <a href="https://github.com/divyagiridhar/SE-Group-25-WolfCare/network/members">
+    <img src="https://img.shields.io/github/forks/divyagiridhar/SE-Group-25-WolfCare?style=social">
   </a>
 </div>
 

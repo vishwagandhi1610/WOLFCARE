@@ -11,9 +11,6 @@
   <a href="https://github.com/divyagiridhar/SE-Group-25-WolfCare/actions/workflows/Coverage.yml">
     <img src="https://github.com/divyagiridhar/SE-Group-25-WolfCare/actions/workflows/Coverage.yml/badge.svg">
   </a>
-  <a href="https://codecov.io/gh/dhruvpatel-9/WolfCare" > 
-    <img src="https://codecov.io/gh/dhruvpatel-9/WolfCare/branch/main/graph/badge.svg?token=9174TE5M55"/> 
-  </a>
   <a href="https://github.com/divyagiridhar/SE-Group-25-WolfCare.git">
     <img src="https://img.shields.io/github/repo-size/divyagiridhar/SE-Group-25-WolfCare?color=brightgreen">
   </a>
@@ -105,28 +102,33 @@ https://user-images.githubusercontent.com/54198410/194599349-2d8e7412-777e-4f72-
 
 <table border="2" bordercolorlight="#b9dcff" bordercolordark="#006fdd">
 
-  <thead>
-    <p> 1. Main Page </p>
+  <thead>  
+    <a href = "/documentation/main.png">1. Main Page </a>
+    <p></p>
     <img src="/images/main.png">
   </thead>
   
   <tr style="background: #010203;"> 
     <td colspan = "2">
-      <p style="color: #FF7A59"> 2. Welcome Page </p>  
+      <a href = "/documentation/welcome.png">2. Welcome Page </a>
+      <p> </p>
         <img src="/images/loginregister.png">    
      </td>
      <td colspan = "2">
-      <p style="color: #FF7A59"> 3. Login Page </p>  
+      <a href = "/documentation/login.png">3. Login Page </a>
+      <p> </p>  
         <img src="/images/login.png">    
      </td>
   </tr>
    <tr style="background: #010203;"> 
     <td colspan = "2">
-      <p style="color: #FF7A59"> 4. Home Page </p>  
+      <a href = "/documentation/home.png">4. Home Page </a>
+      <p> </p>  
         <img src="/images/home.png">    
      </td>
      <td colspan = "2"> 
-      <p style="color: #FF7A59"> 5. Search Page </p>
+      <a href = "/documentation/search.png">5. Search Page </a>
+      <p> </p>
         <img src="./images/doc_search.png">
     </td>
   </tr>

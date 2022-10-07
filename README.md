@@ -1,6 +1,6 @@
 <p align="center"><img src="/images/ProjectBanner.png">
   
- <h1 align="center"> WolfCare </h1>
+<h1 align="center"> WolfCare </h1>
   
 <h2 align="center"> Online Doctor Appointment and Symptoms Checker </h1>
 
@@ -47,6 +47,7 @@
 <li> 
 <a href="#help"> Help </a>
 </li>
+<br>
 
 <h2 id = "overview"> About WolfCare </h2>
 
@@ -57,6 +58,7 @@ WolfCare is an online application that manages the health portfolio of the patie
 <div align = "center">
   <img style="height:700px; width:500px;" src = "/images/Flowchartpng.png">
 </div>
+<br>
 
 <h2 id = "design"> Website Design </h2>
 
@@ -88,7 +90,7 @@ WolfCare is an online application that manages the health portfolio of the patie
     </td>
   </tr>
   </table>
-
+<br>
 
 <h2 id = "db"> Database Design</h2>
 
@@ -110,10 +112,11 @@ WolfCare is an online application that manages the health portfolio of the patie
      </td>
   </tr>
   </table>
-
+<br>
 
 <h2 id = "target audience"> Target Audience </h2>
 WolfCare targets uses who would like to check the presence of any medical conditions and book an appointment with a doctor. 
+<br>
 <br>
 
 <h2 id = "ig"> Installation Guide </h2>
@@ -125,6 +128,7 @@ WolfCare targets uses who would like to check the presence of any medical condit
 
 <h2 id = "licenses"> Licenses </h2>
 <a href="https://github.com/divyagiridhar/SE-Group-25-WolfCare/blob/main/LICENSE"> MIT </a> License is used in this project. 
+<br>
 <br>
 
 <h2 id = "help"> Help </h2>

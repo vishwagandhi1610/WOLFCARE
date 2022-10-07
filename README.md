@@ -52,6 +52,7 @@ WolfCare is an online application that manages the health portfolio of the patie
 <table border="2" bordercolorlight="#b9dcff" bordercolordark="#006fdd">
 
   <thead>
+    <p> 1. Main Page </p>
     <img src="/images/main.png">
   </thead>
   

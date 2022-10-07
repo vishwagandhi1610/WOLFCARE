@@ -156,13 +156,20 @@ WolfCare targets uses who would like to check the presence of any medical condit
 <br>
 
 <h2 id = "ig"> Installation Guide </h2>
-<ul>
-<li> Clone the Github repository in your local system. </li> 
-``` bash
-git clone https://github.com/divyagiridhar/SE-Group-25-WolfCare.git
-```
-<li> This project uses xampp, so make sure to install xampp in your system. All the requirements of the project are listed in the `requirements.txt` file. </li>
-</ul>
+
+>***Note***: *All the requirements of the project are listed in the [requirements.txt](https://github.com/divyagiridhar/SE-Group-25-WolfCare/blob/main/requirements.txt) file with their required versions. The [INSTALL.md](https://github.com/divyagiridhar/SE-Group-25-WolfCare/blob/main/INSTALL.md) guides on how to download the required applications.*
+
+1. Clone the Github repository in your local system by running **`git clone https://github.com/divyagiridhar/SE-Group-25-WolfCare.git`** in your command line or downloading the repository zip file.
+2. This project uses xampp, so make sure to install xampp in your system.
+3. Place the project repository in **`/xampp/htdocs/`** (**Note:** the xampp folder will be present in the C directory of your local system).
+4. Run the xampp application, and start the **`Apache`, `MySQL`, and `FileZilla`** by clicking on the start button.
+5. Open the project in Visual Studio Code (VS Code) &rarr; Go to **`code/medical-rules/index.html`** and press the **`Go Live`** button present at the bottom right corner.
+6. Open **`code/wolfcare-main/html/main.html`** through **`localhost`**.
+
+<br>
+<hr>
+<p> <strong> Still not getting it? Confused? Of course we are the saviours and creators, you can take a look at the video tutorial given below.</strong></p>
+<hr>
 <br>
 
 <h2 id = "licenses"> Licenses </h2>

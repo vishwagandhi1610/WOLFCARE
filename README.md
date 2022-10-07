@@ -172,6 +172,7 @@ WolfCare targets uses who would like to check the presence of any medical condit
 3. Place the project repository in **`/xampp/htdocs/`** (**Note:** the xampp folder will be present in the C directory of your local system).
 4. Run the xampp application, and start the **`Apache`, `MySQL`, and `FileZilla`** by clicking on the start button.
 5. Open the project in Visual Studio Code (VS Code) &rarr; Go to **`code/medical-rules/index.html`** and press the **`Go Live`** button present at the bottom right corner.
+(**Tip:** If there isn't any `Go Live` button present at the bottom right corner in VS Code, **install** the extension &rarr; Live Server.)
 6. Open **`code/wolfcare-main/html/main.html`** through **`localhost`**.
 
 <br>

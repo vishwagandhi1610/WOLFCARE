@@ -21,16 +21,22 @@
     <img src="https://img.shields.io/github/commit-activity/w/divyagiridhar/SE-Group-25-WolfCare?color=blueviolet">
   </a>
   <a href="https://github.com/divyagiridhar/SE-Group-25-WolfCare/issues">
-    <img src="https://img.shields.io/github/issues-raw/divyagiridhar/SE-Group-25-WolfCare">
+    <img src="https://img.shields.io/github/issues-raw/divyagiridhar/SE-Group-25-WolfCare?color=red">
   </a>
   <a href="https://github.com/divyagiridhar/SE-Group-25-WolfCare/issues?q=is%3Aissue+is%3Aclosed">
-    <img src="https://img.shields.io/github/issues-closed-raw/divyagiridhar/SE-Group-25-WolfCare">
+    <img src="https://img.shields.io/github/issues-closed-raw/divyagiridhar/SE-Group-25-WolfCare?color=success">
   </a>
-  <a href="https://github.com/divyagiridhar/SE-Group-25-WolfCare/issues">
-    <img src="https://img.shields.io/github/issues-pr/divyagiridhar/SE-Group-25-WolfCare">
+  <a href="https://github.com/divyagiridhar/SE-Group-25-WolfCare/pulls">
+    <img src="https://img.shields.io/github/issues-pr/divyagiridhar/SE-Group-25-WolfCare?color=orange">
   </a>
-  <a href="https://github.com/divyagiridhar/SE-Group-25-WolfCare/issues">
-    <img src="https://img.shields.io/github/issues-pr-closed/divyagiridhar/SE-Group-25-WolfCare">
+  <a href="https://github.com/divyagiridhar/SE-Group-25-WolfCare/pulls?q=is%3Apr+is%3Aclosed">
+    <img src="https://img.shields.io/github/issues-pr-closed/divyagiridhar/SE-Group-25-WolfCare?color=green">
+  </a>
+  <a href="https://github.com/divyagiridhar/SE-Group-25-WolfCare/tags">
+    <img src="https://img.shields.io/github/v/tag/divyagiridhar/SE-Group-25-WolfCare?color=9cf">
+  </a>
+  <a href="https://github.com/divyagiridhar/SE-Group-25-WolfCare/network/members">
+    <img src="https://img.shields.io/github/forks/divyagiridhar/SE-Group-25-WolfCare?style=social">
   </a>
 </div>
 

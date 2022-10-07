@@ -6,3 +6,5 @@ npm install
 xampp==7.4.30
 localhost:80
 json
+VS Code==1.72
+phpMyAdmin

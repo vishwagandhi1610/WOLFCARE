@@ -83,7 +83,7 @@ WolfCare is an online application that manages the health portfolio of the patie
 
 <h2 id = "flowchart"> Flowchart </h2>
 <div align = "center">
-  <img style="height:700px; width:500px;" src = "/images/Flowchartpng.png">
+  <img style="height:700px; width:500px;" src = "/images/Flowchartblack.png">
 </div>
 <br>
 

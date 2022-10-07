@@ -83,7 +83,7 @@
         <h4><?php echo $_SESSION['name'];?></h4>
       </div>
       <a href="profile.php"><i class="fas fa-user-circle"></i><span>My Profile</span></a>
-      <a href="http://127.0.0.1:5500/symptoms/index.html"><i class="fas fa-diagnoses"></i><span>Symptoms</span></a>
+      <a href="http://127.0.0.1:5500/code/medical-rules/index.html"><i class="fas fa-diagnoses"></i><span>Symptoms</span></a>
       <a href="show_appointments.php"><i class="far fa-calendar-check"></i></i><span>Appointments</span></a>
       <!-- <a href="#"><i class="fas fa-info-circle"></i><span>About us</span></a> -->
       <a href="logout.php"><i class="fas fa-sign-out-alt"></i><span>Logout</span></a>

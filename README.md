@@ -51,36 +51,29 @@ WolfCare is an online application that manages the health portfolio of the patie
 
 <table border="2" bordercolorlight="#b9dcff" bordercolordark="#006fdd">
 
-  <tr style="background: #010203 ">
-    <td colspan = "2"> 
-      <p style="color: #FF7A59"> 1. Main Page 
-      </p>
-         <img src="/images/main.png">
-    </td>
-    <td> 
-      <p style="color: #FF7A59"> 2. Search Page
-      </p>
-        <img src="./images/doc_search.png">
-    </td>
-  </tr>
+  <thead>
+    <img src="/images/main.png">
+  </thead>
+  
   <tr style="background: #010203;"> 
     <td colspan = "2">
-      <p style="color: #FF7A59"> 3. Welcome Page
-      </p>  
+      <p style="color: #FF7A59"> 2. Welcome Page </p>  
         <img src="/images/loginregister.png">    
      </td>
      <td colspan = "2">
-      <p style="color: #FF7A59"> 4. Login Page
-      </p>  
+      <p style="color: #FF7A59"> 3. Login Page </p>  
         <img src="/images/login.png">    
      </td>
   </tr>
    <tr style="background: #010203;"> 
-    <td>
-      <p style="color: #FF7A59"> 5. Home Page
-      </p>  
+    <td colspan = "2">
+      <p style="color: #FF7A59"> 4. Home Page </p>  
         <img src="/images/home.png">    
      </td>
+     <td colspan = "2"> 
+      <p style="color: #FF7A59"> 5. Search Page </p>
+        <img src="./images/doc_search.png">
+    </td>
   </tr>
   </table>
 

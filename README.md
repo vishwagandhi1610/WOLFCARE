@@ -81,6 +81,28 @@ WolfCare is an online application that manages the health portfolio of the patie
   </table>
 
 
+<h2 id = "db"> Database Design</h2>
+
+<table border="2" bordercolorlight="#b9dcff" bordercolordark="#006fdd">
+
+  <thead>
+    <p> 1. Main Database </p>
+    <img src="/images/db1.png">
+  </thead>
+  
+  <tr style="background: #010203;"> 
+    <td colspan = "2">
+      <p style="color: #FF7A59"> 2. Doctors' Database </p>  
+        <img src="/images/db2.png">    
+     </td>
+     <td colspan = "2">
+      <p style="color: #FF7A59"> 3. Users' Database  </p>  
+        <img src="/images/db3.png">    
+     </td>
+  </tr>
+  </table>
+
+
 <h2 id = "target audience"> Target Audience </h2>
 WolfCare targets uses who would like to check the presence of any medical conditions and book an appointment with a doctor. 
 <br>

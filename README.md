@@ -17,6 +17,21 @@
   <a href="https://github.com/divyagiridhar/SE-Group-25-WolfCare/graphs/contributors">
     <img src="https://img.shields.io/github/contributors/divyagiridhar/SE-Group-25-WolfCare">
   </a>
+  <a href="https://github.com/divyagiridhar/SE-Group-25-WolfCare/graphs/commit-activity">
+    <img src="https://img.shields.io/github/commit-activity/w/divyagiridhar/SE-Group-25-WolfCare?color=blueviolet">
+  </a>
+  <a href="https://github.com/divyagiridhar/SE-Group-25-WolfCare/issues">
+    <img src="https://img.shields.io/github/issues-raw/divyagiridhar/SE-Group-25-WolfCare">
+  </a>
+  <a href="https://github.com/divyagiridhar/SE-Group-25-WolfCare/issues?q=is%3Aissue+is%3Aclosed">
+    <img src="https://img.shields.io/github/issues-closed-raw/divyagiridhar/SE-Group-25-WolfCare">
+  </a>
+  <a href="https://github.com/divyagiridhar/SE-Group-25-WolfCare/issues">
+    <img src="https://img.shields.io/github/issues-pr/divyagiridhar/SE-Group-25-WolfCare">
+  </a>
+  <a href="https://github.com/divyagiridhar/SE-Group-25-WolfCare/issues">
+    <img src="https://img.shields.io/github/issues-pr-closed/divyagiridhar/SE-Group-25-WolfCare">
+  </a>
 </div>
 
 <h2> Table of Contents </h2>

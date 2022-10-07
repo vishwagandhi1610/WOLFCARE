@@ -63,6 +63,9 @@
 <a href="#target audience"> Target Audience </a> 
 </li>
 <li> 
+<a href="#tech"> Technologies </a> 
+</li>
+<li> 
 <a href="#ig"> Installation Guide </a>
 </li>
 <li> 
@@ -143,6 +146,12 @@ WolfCare is an online application that manages the health portfolio of the patie
 
 <h2 id = "target audience"> Target Audience </h2>
 WolfCare targets uses who would like to check the presence of any medical conditions and book an appointment with a doctor. 
+<br>
+<br>
+
+<h2 id = "tech"> Technologies </h2>
+
+![Javascript](https://img.shields.io/badge/javascript-%2320232a.svg?style=for-the-badge&logo=javascript&logoColor=%2361DAFB) &nbsp; ![PHP](https://img.shields.io/badge/php-%2320232a.svg?style=for-the-badge&logo=php&logoColor=%2361DAFB) &nbsp; ![MYSQL](https://img.shields.io/badge/mysql-%2320232a.svg?style=for-the-badge&logo=mysql&logoColor=%2361DAFB) &nbsp; ![HTML](https://img.shields.io/badge/html-%2320232a.svg?style=for-the-badge&logo=html&logoColor=%2361DAFB) &nbsp; ![CSS](https://img.shields.io/badge/css-%2320232a.svg?style=for-the-badge&logo=css&logoColor=%2361DAFB)
 <br>
 <br>
 

@@ -47,6 +47,44 @@ WolfCare is an online application that manages the health portfolio of the patie
 <h2 id = "flowchart"> Flowchart </h2>
 <img style="height:700px; width:500px" src = "/images/Flowchartpng.png">
 
+<h2 id = "design"> Website Design </h2>
+
+<table border="2" bordercolorlight="#b9dcff" bordercolordark="#006fdd">
+
+  <tr style="background: #010203 ">
+    <td colspan = "2"> 
+      <p style="color: #FF7A59"> 1. Main Page 
+      </p>
+         <img src="/images/main.png">
+    </td>
+    <td> 
+      <p style="color: #FF7A59"> 2. Search Page
+      </p>
+        <img src="./images/doc_search.png">
+    </td>
+  </tr>
+  <tr style="background: #010203;"> 
+    <td colspan = "2">
+      <p style="color: #FF7A59"> 3. Welcome Page
+      </p>  
+        <img src="/images/loginregister.png">    
+     </td>
+     <td colspan = "2">
+      <p style="color: #FF7A59"> 4. Login Page
+      </p>  
+        <img src="/images/login.png">    
+     </td>
+  </tr>
+   <tr style="background: #010203;"> 
+    <td>
+      <p style="color: #FF7A59"> 5. Home Page
+      </p>  
+        <img src="/images/home.png">    
+     </td>
+  </tr>
+  </table>
+
+
 <h2 id = "target audience"> Target Audience </h2>
 WolfCare targets uses who would like to check the presence of any medical conditions and book an appointment with a doctor. 
 <br>

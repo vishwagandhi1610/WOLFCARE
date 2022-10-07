@@ -24,6 +24,15 @@
 <a href="#overview"> About WolfCare </a> 
 </li>
 <li> 
+<a href="#flowchart"> Flowchart </a> 
+</li>
+<li> 
+<a href="#design"> Website Design </a> 
+</li>
+<li> 
+<a href="#db"> Database Design </a> 
+</li>
+<li> 
 <a href="#target audience"> Target Audience </a> 
 </li>
 <li> 

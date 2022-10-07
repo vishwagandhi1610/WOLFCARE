@@ -38,6 +38,12 @@
   <a href="https://github.com/divyagiridhar/SE-Group-25-WolfCare/network/members">
     <img src="https://img.shields.io/github/forks/divyagiridhar/SE-Group-25-WolfCare?style=social">
   </a>
+  <a href="https://github.com/divyagiridhar/SE-Group-25-WolfCare">
+    <img src="https://img.shields.io/github/languages/count/divyagiridhar/SE-Group-25-WolfCare">
+  </a>
+  <a href="https://github.com/divyagiridhar/SE-Group-25-WolfCare">
+    <img src="https://img.shields.io/github/languages/top/divyagiridhar/SE-Group-25-WolfCare?color=ff69b4">
+  </a>
 </div>
 
 <h2> Table of Contents </h2>

@@ -78,6 +78,9 @@
 <a href="#ig"> Installation Guide </a>
 </li>
 <li> 
+<a href="#documentation"> Documentation </a>
+</li>
+<li> 
 <a href="#licenses"> License </a> 
 </li>
 <li> 
@@ -192,6 +195,13 @@ https://user-images.githubusercontent.com/30078834/194672106-53b41cd8-fc84-40a3-
 
 <hr>
 <br>
+
+<h2 id = "documentation"> Documentation </h2>
+Check documentation<a href="https://github.com/divyagiridhar/SE-Group-25-WolfCare/tree/manan_new2/documentation"> here</a>.
+<h3> How? </h3>
+Click<a href="https://user-images.githubusercontent.com/30078834/194672106-53b41cd8-fc84-40a3-874e-a51936059b86.mp4"> here</a>.
+<h3> Why? </h3>
+Click<a href="https://user-images.githubusercontent.com/54198410/194599349-2d8e7412-777e-4f72-9f58-2b48cf1f2d84.mp4"> here</a>.
 
 <h2 id = "licenses"> Licenses </h2>
 <a href="https://github.com/divyagiridhar/SE-Group-25-WolfCare/blob/main/LICENSE"> MIT </a> License is used in this project. 

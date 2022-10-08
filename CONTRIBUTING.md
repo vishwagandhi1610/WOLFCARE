@@ -8,7 +8,8 @@ The following is a set of guidelines for contributing to CSC-510-Group-25 on Git
 
 [Code of Conduct](#code-of-conduct)
 
-[How Can I Contribute?](#how-can-i-contribute)
+[How Can I Contribute?](#how-can-i-contribute) 
+  * [Future Enhancement](#future-enhancement)
   * [Create an issue](#create-an-issue)
   * [Reporting Bugs](#reporting-bugs)
   * [Suggesting Enhancements](#suggesting-enhancements)
@@ -19,6 +20,12 @@ The following is a set of guidelines for contributing to CSC-510-Group-25 on Git
 This project and everyone participating in it is governed by the [Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to one of the members of our group. 
 
 ## How Can I Contribute?
+
+### Future Enhancement
+* Admin Panel
+* Adding Symptoms
+* Rule Changes
+* Enhancement of User Interface
 
 ### Create an Issue
 By running the test files and checking functionality of classes, you can generate an issue which we can address

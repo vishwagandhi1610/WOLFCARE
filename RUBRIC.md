@@ -3,7 +3,7 @@ Total Score:
 |Notes|Score|Evidence|
 |-----|---------|---------|
 |Video1| 3 | N/A | 
-|Video2|  |  | 
+|Video2| 3 | README.md |
 |Workload is spread over the whole team (one team member is often Xtimes more productive than the others, but nevertheless, here is a track record that everyone is contributing a lot)| 3 | GH Insights |
 |Number of commits| 3 | GH Insights |
 |Number of commits: by different people| 3 | GH Insights |
@@ -14,15 +14,15 @@ Total Score:
 |Docs: what: point descriptions of each class/function (in isolation) |  |  
 |Docs: how: for common use cases X,Y,Z mini-tutorials showing worked examples on how to do X,Y,Z|  |  |
 |Docs: why: docs tell a story, motivate the whole thing, deliver a punchline that makes you want to rush out and use the thing|  | 
-|Docs: short video, animated, hosted on your repo. That convinces people why they want to work on your code.|  | 
+|Docs: short video, animated, hosted on your repo. That convinces people why they want to work on your code.| 3 | README.md | 
 |Use of version control tools|  | 
 |Use of style checkers |  |  |
 |Use of code formatters. |  |  |
 |Use of syntax checkers. |  |  |
-|Use of code coverage |  | 
+|Use of code coverage | 3 | README.md |
 |Other automated analysis tools|  |  |
-|Test cases exist|  |  |
-|Test cases are routinely executed|  |  |
+|Test cases exist| 3 | Available |
+|Test cases are routinely executed| 3 | Available |
 |The files CONTRIBUTING.md lists coding standards and lots of tips on how to extend the system without screwing things up| 3 | Home page of the repository (CONTRIBUTING.md) |
 |Issues are discussed before they are closed| 3 | Issues tab |
 |Chat channel: exists| 3 | Home page of the repository |
@@ -44,7 +44,7 @@ Total Score:
 |Is the documentation clearly available on your website or within your software? | 3 | Repository main page
 |Does the documentation include a "quick start" guide, that provides a short overview of how to use the software with some basic examples of use? | 3 | README.md
 |If team has provided more extensive documentation, does this provide clear, step-by-step instructions on how to deploy and use the software? | 3 | README.md
-|Did the team provide a comprehensive guide to all the software’s commands, functions and options? |  | 
+|Did the team provide a comprehensive guide to all the software’s commands, functions and options? | 3 | Through the animated video, demo video and other documentation
 |Did the team provide troubleshooting information that describes the symptoms and step-by-step solutions for problems and error messages? |  | 
 |If the software can be used as a library, package or service by other software, do the team provide comprehensive API documentation? |  | 
 |Did the team store the documentation under revision control with your source code? |  | 

@@ -10,3 +10,7 @@
   <li> To Enter the Welcome Page &rarr; Click on Get Started </li>
   <li> To follow us on social media &rarr; Scroll down to footer </li>
 </ul>
+
+> Code :
+<p></p>
+&nbsp;   To see code click<a href="https://github.com/divyagiridhar/SE-Group-25-WolfCare/blob/main/code/wolfcare-main/html/main.html"> here</a>.

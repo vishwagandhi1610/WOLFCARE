@@ -12,3 +12,7 @@
   <li> Appointment &rarr; Once you book an appointment, you will be able to view it here. </li>
   <li> Search &rarr; After you find out what disease you might have, you can search for the doctors using this feature. </li>
 </ul>
+
+> Code :
+<p></p>
+&nbsp;   To see code click<a href="https://github.com/divyagiridhar/SE-Group-25-WolfCare/blob/main/code/wolfcare-main/php/temp_homepage2.php"> here</a>.

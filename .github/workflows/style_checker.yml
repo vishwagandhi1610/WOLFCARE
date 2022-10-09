@@ -1,0 +1,11 @@
+name: Python Style Checker
+
+on: |
+jobs:
+  py_style_check:
+  
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Python style check
+        uses: bulv1ne/python-style-check@v0.3

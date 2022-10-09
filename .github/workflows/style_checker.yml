@@ -1,6 +1,6 @@
 name: Python Style Checker
 
-on: |
+on: push
 jobs:
   py_style_check:
   

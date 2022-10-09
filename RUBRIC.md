@@ -16,9 +16,9 @@ Total Score:
 |Docs: why: docs tell a story, motivate the whole thing, deliver a punchline that makes you want to rush out and use the thing| 3 | README.md
 |Docs: short video, animated, hosted on your repo. That convinces people why they want to work on your code.| 3 | README.md | 
 |Use of version control tools| 3 | Github
-|Use of style checkers |  |  |
+|Use of style checkers | 3 | README.md |
 |Use of code formatters. |  |  |
-|Use of syntax checkers. |  |  |
+|Use of syntax checkers. | 3 | README.md |
 |Use of code coverage | 3 | README.md |
 |Other automated analysis tools|  |  |
 |Test cases exist| 3 | tests folder |

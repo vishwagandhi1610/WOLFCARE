@@ -197,7 +197,11 @@ https://user-images.githubusercontent.com/30078834/194672106-53b41cd8-fc84-40a3-
 <br>
 
 <h2 id = "documentation"> Documentation </h2>
-Check documentation<a href="https://github.com/divyagiridhar/SE-Group-25-WolfCare/tree/manan_new2/documentation"> here</a>.
+<a href="https://github.com/divyagiridhar/SE-Group-25-WolfCare/blob/main/documentation/home.md">Home Page</a>
+<a href="https://github.com/divyagiridhar/SE-Group-25-WolfCare/blob/main/documentation/main.md">Main Page</a>
+<a href="https://github.com/divyagiridhar/SE-Group-25-WolfCare/blob/main/documentation/login.md">Login Page</a>
+<a href="https://github.com/divyagiridhar/SE-Group-25-WolfCare/blob/main/documentation/search.md">Search Page</a>
+
 <h3> How? </h3>
 Click<a href="https://user-images.githubusercontent.com/30078834/194672106-53b41cd8-fc84-40a3-874e-a51936059b86.mp4"> here</a>.
 <h3> Why? </h3>

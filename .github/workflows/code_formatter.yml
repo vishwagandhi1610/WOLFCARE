@@ -10,4 +10,4 @@ jobs:
       - name: Black Code Formatter
         uses: psf/black@stable
         with:
-          src: "./code"
+          src: "code"

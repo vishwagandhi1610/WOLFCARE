@@ -14,6 +14,12 @@
   <a href="https://codecov.io/gh/dhruvpatel-9/WolfCare" > 
     <img src="https://codecov.io/gh/dhruvpatel-9/WolfCare/branch/main/graph/badge.svg?token=9174TE5M55"/> 
   </a>
+  <a href="https://github.com/divyagiridhar/SE-Group-25-WolfCare/actions/workflows/style_checker.yml" > 
+    <img src="https://github.com/divyagiridhar/SE-Group-25-WolfCare/actions/workflows/style_checker.yml/badge.svg"/> 
+  </a>
+  <a href="https://github.com/divyagiridhar/SE-Group-25-WolfCare/actions/workflows/code_formatter.yml" > 
+    <img src="https://github.com/divyagiridhar/SE-Group-25-WolfCare/actions/workflows/code_formatter.yml/badge.svg"/> 
+  </a>
   <a href="https://github.com/divyagiridhar/SE-Group-25-WolfCare.git">
     <img src="https://img.shields.io/github/repo-size/divyagiridhar/SE-Group-25-WolfCare?color=brightgreen">
   </a>

@@ -1,6 +1,6 @@
 <p align="center"><img src="/images/ProjectBanner.png">
   
-<h1 align="center"> WolfCare </h1>
+<h1 align="center"> 🩺WolfCare </h1>
   
 <h2 align="center"> Online Doctor Appointment and Symptoms Checker </h1>
 
@@ -13,12 +13,6 @@
   </a>
   <a href="https://codecov.io/gh/dhruvpatel-9/WolfCare" > 
     <img src="https://codecov.io/gh/dhruvpatel-9/WolfCare/branch/main/graph/badge.svg?token=9174TE5M55"/> 
-  </a>
-  <a href="https://github.com/divyagiridhar/SE-Group-25-WolfCare/actions/workflows/style_checker.yml" > 
-    <img src="https://github.com/divyagiridhar/SE-Group-25-WolfCare/actions/workflows/style_checker.yml/badge.svg"/> 
-  </a>
-  <a href="https://github.com/divyagiridhar/SE-Group-25-WolfCare/actions/workflows/code_formatter.yml" > 
-    <img src="https://github.com/divyagiridhar/SE-Group-25-WolfCare/actions/workflows/code_formatter.yml/badge.svg"/> 
   </a>
   <a href="https://github.com/divyagiridhar/SE-Group-25-WolfCare.git">
     <img src="https://img.shields.io/github/repo-size/divyagiridhar/SE-Group-25-WolfCare?color=brightgreen">
@@ -97,20 +91,20 @@
 </li>
 <br>
 
-<h2 id = "overview"> About WolfCare </h2>
+<h2 id = "overview"> About WolfCare 🤘 </h2>
 
 WolfCare is an online application that manages the health portfolio of the patient and provides doctor’s assistance through an online portal. A virtual doctor appointment booking system overrides the problems of booking an appointment manually. It is convenient, helps in better resource management and aids in syncing of calender schedules. This project provides a platform for the users to create an account, search for doctors at a given location, view the doctor's background and book appointments. Additionally, we have included a symptoms check where users can add theor test report values and view the results of a medical condition.  
 
 https://user-images.githubusercontent.com/54198410/194599349-2d8e7412-777e-4f72-9f58-2b48cf1f2d84.mp4
 
 <br>
-<h2 id = "flowchart"> Flowchart </h2>
+<h2 id = "flowchart"> Flowchart ⏬ </h2>
 <div align = "center">
   <img style="height:700px; width:500px;" src = "/images/Flowchartblack.png">
 </div>
 <br>
 
-<h2 id = "design"> Website Design </h2>
+<h2 id = "design"> Website Design 🖥️ </h2>
 
 <table border="2" bordercolorlight="#b9dcff" bordercolordark="#006fdd">
 
@@ -147,7 +141,7 @@ https://user-images.githubusercontent.com/54198410/194599349-2d8e7412-777e-4f72-
   </table>
 <br>
 
-<h2 id = "db"> Database Design</h2>
+<h2 id = "db"> Database Design 💾</h2>
 
 <table border="2" bordercolorlight="#b9dcff" bordercolordark="#006fdd">
 
@@ -169,18 +163,18 @@ https://user-images.githubusercontent.com/54198410/194599349-2d8e7412-777e-4f72-
   </table>
 <br>
 
-<h2 id = "target audience"> Target Audience </h2>
+<h2 id = "target audience"> 🎯 Target Audience 👨‍👨‍👧‍👧 </h2>
 WolfCare targets uses who would like to check the presence of any medical conditions and book an appointment with a doctor. 
 <br>
 <br>
 
-<h2 id = "tech"> Technologies </h2>
+<h2 id = "tech"> Technologies :electron: </h2>
 
 ![Javascript](https://img.shields.io/badge/javascript-%2320232a.svg?style=for-the-badge&logo=javascript&logoColor=%2361DAFB) &nbsp; ![PHP](https://img.shields.io/badge/php-%2320232a.svg?style=for-the-badge&logo=php&logoColor=%2361DAFB) &nbsp; ![MYSQL](https://img.shields.io/badge/mysql-%2320232a.svg?style=for-the-badge&logo=mysql&logoColor=%2361DAFB) &nbsp; ![HTML](https://img.shields.io/badge/html-%2320232a.svg?style=for-the-badge&logo=html&logoColor=%2361DAFB) &nbsp; ![CSS](https://img.shields.io/badge/css-%2320232a.svg?style=for-the-badge&logo=css&logoColor=%2361DAFB)
 <br>
 <br>
 
-<h2 id = "ig"> Installation Guide </h2>
+<h2 id = "ig"> Installation Guide ✔️</h2>
 
 >***Note***: *All the requirements of the project are listed in the [requirements.txt](https://github.com/divyagiridhar/SE-Group-25-WolfCare/blob/main/requirements.txt) file with their required versions. The [INSTALL.md](https://github.com/divyagiridhar/SE-Group-25-WolfCare/blob/main/INSTALL.md) guides on how to download the required applications.*
 
@@ -194,7 +188,7 @@ WolfCare targets uses who would like to check the presence of any medical condit
 
 <br>
 <hr>
-<p> <strong> Still not getting it? Confused? Of course we are the saviours and creators, you can take a look at the video tutorial given below.</strong></p>
+<p> ❔ <strong> Still not getting it? Confused? Of course we are the saviours and creators, you can take a look at the video tutorial given below.</strong></p>
 <hr>
 
 https://user-images.githubusercontent.com/30078834/194672106-53b41cd8-fc84-40a3-874e-a51936059b86.mp4
@@ -202,7 +196,7 @@ https://user-images.githubusercontent.com/30078834/194672106-53b41cd8-fc84-40a3-
 <hr>
 <br>
 
-<h2 id = "documentation"> Documentation </h2>
+<h2 id = "documentation"> Documentation 🖋️ </h2>
 <a href="https://github.com/divyagiridhar/SE-Group-25-WolfCare/blob/main/documentation/home.md">Home Page</a>
 <br>
 <a href="https://github.com/divyagiridhar/SE-Group-25-WolfCare/blob/main/documentation/main.md">Main Page</a>
@@ -216,12 +210,12 @@ Click<a href="https://user-images.githubusercontent.com/30078834/194672106-53b41
 <h3> Why? </h3>
 Click<a href="https://user-images.githubusercontent.com/54198410/194599349-2d8e7412-777e-4f72-9f58-2b48cf1f2d84.mp4"> here</a>.
 
-<h2 id = "licenses"> Licenses </h2>
+<h2 id = "licenses"> Licenses 📝 </h2>
 <a href="https://github.com/divyagiridhar/SE-Group-25-WolfCare/blob/main/LICENSE"> MIT </a> License is used in this project. 
 <br>
 <br>
 
-<h2 id = "help"> Help </h2>
+<h2 id = "help"> Help 📧 </h2>
 You can email any queries to the contributors mentioned below.
 <br>
 

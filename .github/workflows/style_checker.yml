@@ -1,4 +1,4 @@
-name: Python Style Checker
+name: Style Checker
 
 on: push
 jobs:

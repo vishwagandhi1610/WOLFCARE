@@ -198,8 +198,11 @@ https://user-images.githubusercontent.com/30078834/194672106-53b41cd8-fc84-40a3-
 
 <h2 id = "documentation"> Documentation </h2>
 <a href="https://github.com/divyagiridhar/SE-Group-25-WolfCare/blob/main/documentation/home.md">Home Page</a>
+<br>
 <a href="https://github.com/divyagiridhar/SE-Group-25-WolfCare/blob/main/documentation/main.md">Main Page</a>
+<br>
 <a href="https://github.com/divyagiridhar/SE-Group-25-WolfCare/blob/main/documentation/login.md">Login Page</a>
+<br>
 <a href="https://github.com/divyagiridhar/SE-Group-25-WolfCare/blob/main/documentation/search.md">Search Page</a>
 
 <h3> How? </h3>

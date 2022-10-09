@@ -8,6 +8,6 @@ jobs:
     
     steps:
       - name: Black Code Formatter
-      - uses: psf/black@stable
+        uses: lgeiger/black-action@v1.0.1
         with:
           src: "./code"

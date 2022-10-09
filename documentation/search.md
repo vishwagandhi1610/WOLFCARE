@@ -10,3 +10,7 @@
 <ul>
   <li> To Search &rarr; Click on Search Bar </li>
 </ul>
+
+> Code :
+<p></p>
+&nbsp;   To see code click<a href="https://github.com/divyagiridhar/SE-Group-25-WolfCare/blob/main/code/wolfcare-main/php/show_appointments.php"> here</a>.

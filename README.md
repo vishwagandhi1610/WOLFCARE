@@ -17,6 +17,9 @@
   <a href="https://github.com/divyagiridhar/SE-Group-25-WolfCare/actions/workflows/style_checker.yml" > 
     <img src="https://github.com/divyagiridhar/SE-Group-25-WolfCare/actions/workflows/style_checker.yml/badge.svg"/> 
   </a>
+  <a href="https://github.com/divyagiridhar/SE-Group-25-WolfCare/actions/workflows/code_formatter.yml" > 
+    <img src="https://github.com/divyagiridhar/SE-Group-25-WolfCare/actions/workflows/code_formatter.yml/badge.svg"/> 
+  </a>
   <a href="https://github.com/divyagiridhar/SE-Group-25-WolfCare.git">
     <img src="https://img.shields.io/github/repo-size/divyagiridhar/SE-Group-25-WolfCare?color=brightgreen">
   </a>

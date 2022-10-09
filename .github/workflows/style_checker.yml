@@ -2,10 +2,10 @@ name: Python Style Checker
 
 on: push
 jobs:
-  py_style_check:
+  build:
   
     runs-on: ubuntu-latest
     
     steps:
       - name: Python style check
-        uses: bulv1ne/python-style-check@v0.3
+        uses: andymckay/pycodestyle-action@0.1.3

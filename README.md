@@ -227,6 +227,6 @@ You can email any queries to the contributors mentioned below.
 
 <hr>
   <p id="cb" align = "center">
-  |&nbsp; <a href = "mailto: rghevar@ncsu.edu">Ravi Ghevariya</a> &nbsp;| &nbsp; <a href = "mailto: dpatel49@ncsu.edu">Dhruv Patel</a> &nbsp;|&nbsp; <a href = "mailto: mrpatel8@ncsu.edu">Manan Patel</a> &nbsp;|&nbsp; <a href = "mailto: divyagiridhar97@gmail.com">Divya Giridhar</a> &nbsp;|&nbsp; <a href = "mailto: shreyastitus@gmail.com">Shreyas Titus</a> |
+  |&nbsp; <a href = "mailto: nshah28@ncsu.edu">Nirav Shah</a>  <a href = "mailto: rghevar@ncsu.edu">Ravi Ghevariya</a> &nbsp;| &nbsp; <a href = "mailto: dpatel49@ncsu.edu">Dhruv Patel</a> &nbsp;|&nbsp; <a href = "mailto: mrpatel8@ncsu.edu">Manan Patel</a> &nbsp;|&nbsp; <a href = "mailto: divyagiridhar97@gmail.com">Divya Giridhar</a> &nbsp;|&nbsp; <a href = "mailto: shreyastitus@gmail.com">Shreyas Titus</a> |
   </p>
 <hr>

@@ -1,0 +1,59 @@
+<html>
+    <head>
+        <link href="rule.interpreter.css" type="text/css" rel="stylesheet"/>
+        <script type="text/javascript" src="rule.interpreter.lexer.js"></script>
+        <script type="text/javascript" src="rule.interpreter.parser.js"></script>
+        <script type="text/javascript" src="rule.interpreter.interpreter.js"></script>        
+        <script type="text/javascript" src="rule.interpreter.evaluator.js"></script>        
+        <script   src="https://code.jquery.com/jquery-1.12.4.min.js"   integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ="   crossorigin="anonymous"></script>
+        <script>                
+                $(document).ready(function(){
+                    $("#parseRule").click(function(){
+                        checkClinicalComorbidities();
+                    });    
+                });                               
+                
+                function checkClinicalComorbidities()
+                {
+                    var resultObj = document.getElementById("result");
+                    resultObj.innerHTML = "";
+                    var varObj = document.getElementById("variables");
+                    var variables = JSON.parse(varObj.value);
+                    var rulesObj = document.getElementById("rules");
+                    var ruleText = rulesObj.value;                    
+                    var ruleJSON = JSON.parse(ruleText);            
+                    var result = processRules(ruleJSON, variables);                    
+                    var htmlStr = "";
+                    htmlStr += "<ul>";
+                    for (var key in result)
+                    {
+                        if (!result.hasOwnProperty(key)) {
+                            continue;
+                        }
+                        
+                        if (typeof(result[key]) == 'object') {
+                            htmlStr += "<li>"+key+"</li><ul>";
+                            for (var inkey in result[key]) {
+                                if (!result[key].hasOwnProperty(inkey)) {
+                                    continue;
+                                }
+                                var foundclass = "style='color:black'";
+                                if (result[key][inkey]===true)
+                                    foundclass = "style='color:blue'";
+                                    htmlStr += "<li "+foundclass+">"+inkey+":"+result[key][inkey]+"</li>";
+                            }
+                            htmlStr += "</ul>";
+                        }
+                        else {
+                            var foundclass = "style='color:black'";
+                            if (result[key]===true)
+                                foundclass = "style='color:blue'";
+                            htmlStr += "<li "+foundclass+">"+key+":"+result[key]+"</li>"
+                        }
+                    }
+                    htmlStr += "</ul>";
+                    resultObj.innerHTML = htmlStr;
+                }
+        </script>
+    </head>
+</html>

@@ -16,5 +16,16 @@
     $_SESSION['doctor_id']  = $row['doc_id'];
     $_SESSION['fname']  = $row['doc_fname'];
     $_SESSION['lname']  = $row['doc_lname'];
+    if($num==1){
+        header('location: doctor_home.php');
+    }
+    else{
+        // echo "<script>alert('wrong password');</script>";
+        // header('location: ../html/login.html');
+        echo '<script type="text/javascript">'; 
+        echo 'alert("Wrong Password");'; 
+        echo 'window.location.href = "../html/doctor.html";';
+        echo '</script>';
+    }
 
 ?>

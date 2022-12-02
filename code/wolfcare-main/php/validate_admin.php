@@ -16,7 +16,12 @@
         header('location: admin_home.php');
     }
     else{
-        
+        // echo "<script>alert('wrong password');</script>";
+        // header('location: ../html/login.html');
+        echo '<script type="text/javascript">'; 
+        echo 'alert("Wrong Password");'; 
+        echo 'window.location.href = "../html/login.html";';
+        echo '</script>';
     }
 
 ?>

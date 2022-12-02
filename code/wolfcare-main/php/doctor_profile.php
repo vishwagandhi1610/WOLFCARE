@@ -104,7 +104,9 @@
                                     value = "<?php echo $res['email'] ; ?>"
                                 />
                             </div>
-                            <?php } ?>
+                            <input type="submit" name="done" value="Update" class="btn btn-primary" />
+                            <a href="doctor_home.php" class="btn btn-success"  style="float:right;" style="color:white">Back</a>
+                        <?php } ?>
                     </form>
                 </div>
             </div>

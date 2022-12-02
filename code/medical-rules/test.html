@@ -56,4 +56,36 @@
                 }
         </script>
     </head>
+    <body>
+        <div style='display:none'>
+			<div style='display:inline-block'>
+				<span>
+					<button class="button" id="addR">Add Rule</button>
+					<button class="button" id="editR">Modify Rule</button>
+				</span>
+				<div id="newRule">
+					Rule Title: <input type='text' /> <input type='checkbox'/>Has Subrules?
+					<div>Add Condition</div>
+					<div>Define Subrule</div>
+					<input type='text' />
+					<div>Add new Subrule</div>
+					<input type='text' />
+				</div>
+				<div id="oldRule">
+					<select id="definedRules">
+						<option>Select Rule to Modify</option>
+					</select>
+				</div>
+			</div>
+			<div style='display:inline-block'>
+				<p>Defined rules</p>
+				<div>WW</div>
+			</div>
+        </div>
+        <div width="100%" >
+            <div style='display:inline-block;width:20%'>            
+                    Variables<br/>
+                    <textarea id="variables">
+
+
 </html>

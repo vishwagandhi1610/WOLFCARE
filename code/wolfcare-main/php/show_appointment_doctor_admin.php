@@ -22,8 +22,38 @@
                             <th>Appointment Date</th>
                             <th>Appointment Time</th>
                         </tr>
-                    
-                        
+                    </thead>
+
+                    <tbody>
+                        <?php  
+                            session_start();
+                            $user = $_SESSION['name'];
+                            
+                            $servername="localhost";
+                            $username="root";
+                            $password = "";
+                            $dbname="kj_mini";
+
+                            $conn = mysqli_connect($servername,$username,$password,$dbname);
+
+                            $sql = "SELECT username, doc_id, apoin_date, apoin_time FROM appointment WHERE doc_id = '$doc_id'";
+                            
+
+                            $query = mysqli_query($conn,$sql);
+
+                            $nums = mysqli_num_rows($query);
+
+                            while($res = mysqli_fetch_array($query)){
+                                
+                        ?>
+                                <tr>
+                                    <!-- <td></td> -->
+                                    <td><?php echo $res['username'];?></td>
+                                    <td><?php echo $res['doc_id'];?></td>
+                                    <td><?php echo $res['apoin_date'];?></td>
+                                    <td><?php echo $res['apoin_time'];?></td>
+                                </tr>
+                            <?php
                             }?>
                         
                         

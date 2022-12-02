@@ -69,7 +69,24 @@
                 $doc_location = "Clinic: ".$row['doc_location'];
                 $doc_phone = "Contact: ".$row['doc_phone'];
                 
-                
+                echo "<div class='container'>
+                        
+                        <div id='designation'>
+                            <div class='name'><p id='name'>".$doc_name.",</p></div>
+                            <div class='type'><p id='type'>".$doc_type."</p></div>
+                        </div>
+                        <div id='additional-info'>
+                            <div class='location'><p id='location'>".$doc_location."</p></div>
+                            <div class='yoe'><p id='yoe'>".$doc_yoe."</p></div>
+                        </div> 
+                        <div id='contact'>
+                            <p id='phone'>".$doc_phone."</p>
+                        </div> 
+                        
+                        <button id='book-but' name='book-btn' value=".$row['doc_id']." >Show Appointment</button>
+
+                        
+                        </div>";
                 
                 // array_push($doctors,$text);
                 // $doctors[$i][0] = $row["doc_fname"];

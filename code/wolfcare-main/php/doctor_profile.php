@@ -32,6 +32,80 @@
 
                             while($res = mysqli_fetch_array($query)){
                         ?>
+                        <form action="doctor_update.php" method="post">
+                        <div class="form-group">
+                                <label for="doc_id">Doctor Id</label>
+                                <input
+                                    type="text"
+                                    class="form-control"
+                                    id="doc_id"
+                                    name="doc_id"
+                                    readonly
+                                    value = "<?php echo $res['doc_id'] ; ?>"
+                                />
+                            </div>
+                            <div class="form-group">
+                                <label for="firstname">First Name </label>
+                                <input
+                                type="text"
+                                class="form-control"
+                                id="firstName"
+                                name="firstName"
+                                value = "<?php echo $res['doc_fname'] ; ?>"
+                                />
+                            </div>
+                            <div class="form-group">
+                                <label for="lastName">Last Name</label>
+                                <input
+                                    type="text"
+                                    class="form-control"
+                                    id="lastName"
+                                    name="lastName"
+                                    value = "<?php echo $res['doc_lname'] ; ?>"
+                                />
+                            </div>
+                            <div class="form-group">
+                                <label for="doc_type">Doctor Type</label>
+                                <input
+                                    type="text"
+                                    class="form-control"
+                                    id="doc_type"
+                                    name="doc_type"
+                                    value = "<?php echo $res['doc_type'] ; ?>"
+                                />
+                            </div>
+                            <div class="form-group">
+                                <label for="number">Phone Number</label>
+                                <input
+                                    type="text"
+                                    class="form-control"
+                                    id="number"
+                                    name="number"
+                                    value = "<?php echo $res['doc_phone'] ; ?>"
+                                />
+                            </div>
+                            <div class="form-group">
+                                <label for="location">Location</label>
+                                <input
+                                    type="text"
+                                    class="form-control"
+                                    id="location"
+                                    name="location"
+                                    value = "<?php echo $res['doc_location'] ; ?>"
+                                />
+                            </div>
+                            <div class="form-group">
+                                <label for="email">Email</label>
+                                <input
+                                    type="text"
+                                    class="form-control"
+                                    id="email"
+                                    name="email"
+                                    value = "<?php echo $res['email'] ; ?>"
+                                />
+                            </div>
+                            <?php } ?>
+                    </form>
                 </div>
             </div>
         </div>

@@ -37,4 +37,65 @@
         }
       }
     </script>
+    
+
+
+  </head>
+  <body>
+
+    <input type="checkbox" id="check">
+    <!--header area start-->
+    <header>
+      <!-- <label for="check">
+        <i class="fas fa-bars" id="sidebar_btn"></i>
+      </label> -->
+      <div class="left_area">
+        <h3>Doctor</h3>
+      </div>
+    </header>
+    <!--header area end-->
+    <!--mobile navigation bar start-->
+    
+    <div class="mobile_nav">
+      <div class="nav_bar">
+        <img src="1.png" class="mobile_profile_image" alt="">
+        <i class="fa fa-bars nav_btn"></i>
+      </div>
+      <div class="mobile_nav_items">
+        <a href="#"><i class="fas fa-user-circle"></i><span>My Profile</span></a>
+        <a href="#"><i class="far fa-calendar-check"></i><span>Appointments</span></a>
+        <!-- <a href="#"><i class="fas fa-info-circle"></i><span>About us</span></a> -->
+        <a href="#"><i class="fas fa-sign-out-alt"></i><span>Logout</span></a>
+      </div>
+    </div>
+    <!--mobile navigation bar end-->
+    <!--sidebar start-->
+    <div class="sidebar">
+      <div class="profile_info">
+        <img src="../images/user2.png" class="profile_image" alt="">
+        <h4><?php echo $_SESSION['fname']." ".$_SESSION['lname'];?></h4>
+      </div>
+      <a href="doctor_profile.php"><i class="fas fa-user-circle"></i><span>My Profile</span></a>
+      <a href="doctor_appointments.php"><i class="far fa-calendar-check"></i></i><span>Appointments</span></a>
+      <!-- <a href="#"><i class="fas fa-info-circle"></i><span>About us</span></a> -->
+      <a href="https://demowolf.000webhostapp.com/#c68e2"><i class="far fa-calendar-check"></i></i><span>Join the call</span></a>
+      <a href="logout.php"><i class="fas fa-sign-out-alt"></i><span>Logout</span></a>
+    </div>
+    <!--sidebar end-->
+
+
+    <!--Content-->
+    <form action="get-doctor-info.php" method="get">
+    <div class="main" id="main">
+      <!-- <i><p id="initial">Try Searching Something</p></i> -->
+
+    <script type="text/javascript">
+    $(document).ready(function(){
+      $('.nav_btn').click(function(){
+        $('.mobile_nav_items').toggleClass('active');
+      });
+    });
+    </script>
+
+  </body>
 </html>

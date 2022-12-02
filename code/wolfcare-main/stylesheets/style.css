@@ -36,7 +36,7 @@ input[type="email"] {
   background: none;
   outline: none;
   height: 40px;
-  color: #adefd1ff;
+  color: rgb(255, 255, 255);
   font-size: 17px;
   
 }

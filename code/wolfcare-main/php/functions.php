@@ -99,7 +99,7 @@
         $_SESSION['name'] = $row['first_name']." ".$row['last_name'];
         
     }
-    
+
     function homepage_doc_info(){
         $servername="localhost";
         $username="root";

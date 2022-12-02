@@ -86,6 +86,53 @@
             <div style='display:inline-block;width:20%'>            
                     Variables<br/>
                     <textarea id="variables">
+                    
+                        {
+                            "minHb":40, "minHc":40,
+                            "prevMinHb":-1, "prevMinHc":-1,
+                            "lowHb":20, "lowHc":40,
+                            "temperature": 60, "minwbc": 10,
+                            "minrbc": 20, "minplt": 20,
+                            "wbclow": 50, "rbclow": 60,
+                            "pltlow": 70, "minbicarbonate":30,
+                            "maxbicarbonate":50, "chol":210,
+                            "sys":123, "dias":100
+                                            }
+                                            </textarea>
+                                        </div>
+                                        <div style='display:inline-block;width:75%'>
+                                            Rule Definitions<br/>
+                                            <textarea id="rules">
+                            [
+                                {"Anemia":[
+                                            { "Normal": " minHb > 2.5 * lowHb  &&  minHc > lowHc"},
+                                            { "Acute": "( ( ( minHb < lowHb ) || ( minHc < lowHc ) ) && ( ( prevMinHb > lowHb ) && ( prevMinHc > lowHc ) ) )"},
+                                            { "Anemic": "( ( ( minHb < lowHb ) || ( minHc < lowHc ) ) && ( ( prevMinHb ==-1 ) && ( prevMinHc ==-1 ) ) )"},
+                                            { "Chronic": "( ( ( minHb < lowHb ) || ( minHc < lowHc ) ) && ( ( prevMinHb < lowHb ) || ( prevMinHc < lowHc ) ) )"}
+                                          ]},                                                                                              
+                                                                                                                          
+                                {"Pancytopenia": [
+                                            {"Due to Chemotherapy" : "( ( minwbc < wbclow ) && ( minrbc < rbclow ) && ( minplt < pltlow ) )"},
+                                            {"Due to Drugs" : "( ( minwbc < wbclow ) && ( minrbc < rbclow ) && ( minplt < pltlow ) )"},
+                                            {"Not Otherwise Specified" : "( ( minwbc < wbclow ) && ( minrbc < rbclow ) && ( minplt < pltlow ) )"}
+                                          ]},
+                                {"Acidbasedisorder" : [
+                                                {"Metabolic Acidosis": "( minbicarbonate < 18.0 ) "},
+                                                {"Metabolic Alkalosis": "( maxbicarbonate > 30.0 )"}
+                                                ]},
+                                {"HyperCholesterolemia" : "( chol > 200 )"},
+                                {"Hypertension" : [
+                                        {"Hypertension" : "( sys > 140 && dias > 90 )"},
+                                        {"Elevated Blood Pressure" : "( sys > 140 && dias > 90 )"}]
+                                }
+                            ]
+                                            </textarea>
+                                        </div>    
+                                    </div>
+                                    <button id="parseRule" class="button">Compute Clinical Comorbidities</button>
+                                    
+                                    
+                                </body>
 
 
 </html>

@@ -68,13 +68,13 @@
         $password = "";
         $dbname="kj_mini";
         $conn = mysqli_connect($servername,$username,$password,$dbname);
-        $sql = "SELECT * FROM Doctors
+        $sql = "SELECT * FROM doctors
                 WHERE doc_id='$doc_id'";
         $result = mysqli_query($conn,$sql);
         $row = mysqli_fetch_assoc($result);
         
         $_SESSION['search-results'] = $search_results;
-        $row = array($row['doc_fname'],$row['doc_lname'],$row['doc_type'],$row['doc_yoe'],$doc['doc_phone'],$row['doc_location']);
+        $row = array($row['doc_fname'],$row['doc_lname'],$row['doc_type'],$row['doc_yoe'],$row['doc_phone'],$row['doc_location']);
         $_SESSION['doctor-info']=$row;      
         header('location: doctor_info.php');
         

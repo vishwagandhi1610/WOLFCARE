@@ -26,7 +26,7 @@
             }); // end of document ready function                    						
 		</script>
 	</head>
-    <body>
+	<body>
         <div class="topmessage">
             <div class="message">This operation was good</div>
             <div class="messageclose" title='Close'>x</div>            
@@ -51,7 +51,7 @@
 				<button class="removecondition" style="background-color:red;border-color:red">- Remove</button>
 			</div>
 		</div>
-        <div id = "subcategoryTemplate" style='display:none'>
+		<div id = "subcategoryTemplate" style='display:none'>
 			<div class = "ruleconditions">
 				<h2><span class='expandcollapse'>-</span>
                     Conditions for :
@@ -89,5 +89,109 @@
                 </div>
 			</div>            
 		</div>
-    </body>
+        <div class="header">
+            <h1>Rule Builder and Modifier - (Dynamic Rule based comorbidities detection from clinical lab reports)</h1>
+            <p>A sample set of standard lab values has been provided to construct the rules.</p> 
+            <p>A sample set of predefined rules is available to view in View/Edit tab</p>
+            <p>The user can export all the defined rules in the View/Edit tab</p>
+            <p style='display:none'>Want to test with custom set of rule descriptors and rules? Load json with the descriptors and then add rules<button>Load custom rule descriptors</button></p><!--This will load the custom value parameters as defined in the json and wipe away the predefined medical rules. The user has to add new rules based on the loaded value parameters-->
+            <input type='checkbox' id="displayassoc"/>Turn on associations display for editable version of the rules?
+        </div>
+		<div id="tabs-container">
+			<ul class="tabs-menu">
+				<li class="current addtab"><a href="#tab-1">Create Rule</a></li>
+				<li><a href="#tab-2" class="edittab">View/Edit Rule</a></li>
+                <li><a href="#tab-3" class="testtab">Test Rules</a></li>
+			</ul>
+			<div class="tab">
+				<div id="tab-1" class="tab-content">					
+					<div id="addrule">
+						<div class="namecomponent">
+							<span>&nbsp;Comorbidity Name: <input type="text" class="rulename"/></span>
+							&nbsp;&nbsp;<span class="nameerror"></span>
+						</div>
+                        <div class="categorycomponent">
+							<h4><input class="hassubcategory" type="checkbox"/>Does "<span class="declaredrule"></span>" have subcategories? <span style='color:lightgrey'>(Check the box if subcategories are present)</span></h4>
+						</div>
+						<div class="preselectcomponent">
+							<div class = "preselect">
+								<h2><span class="expandcollapse">+</span><a href = "#">Lab Dictionary</a><span class="helpdict">(Use this for preselecting lab values to describe the rule)</span></h2>
+								<div style="margin:20px">								
+									<select class="multipreselect" multiple="multiple" size="5" style="width: 60%">
+									</select><span>Type within the box to search and preselect lab values for the rule</span> 
+								</div>
+							</div>
+						</div>						
+						<div class = "ruleconditioncomponent">							
+						</div>
+						<div class="addAnother">
+							<button>Add another subcategory</button>
+						</div>
+						<div align="right" style="margin:10px">
+							<button class="saveAdd">Save</button>
+						</div>						
+					</div> <!--End of Add Rule-->					
+				</div>
+				<div id="tab-2" class="tab-content">	
+					<div class="vieweditparent">
+						<div class="vieweditleft">
+                            <div style='color:lightgrey'>Click on any rule below</div>
+							<div class="definedrules">
+							</div>
+						</div>
+						<div class='vieweditright'>
+                            <div id="editrule">
+                                <div class="namecomponent">
+                                    <span>&nbsp;Comorbidity Name: <input type="text" class="rulename"/></span>
+                                    &nbsp;&nbsp;<span class="nameerror"></span>
+                                </div>
+                                <div class="categorycomponent">
+                                    <h4><input class="hassubcategory" type="checkbox"/>Does "<span class="declaredrule"></span>" have subcategories? <span style='color:lightgrey'>(Check the box if subcategories are present)</span></h4>
+                                </div>
+                                <div class="preselectcomponent">
+                                    <div class = "preselect">
+                                        <h2><span class="expandcollapse">+</span><a href = "#">Lab Dictionary</a><span class="helpdict">(Shows the preselected lab values used to build the rule)</span></h2>
+                                        <div style="margin:20px">								
+                                            <select id = "values" class="multipreselect" multiple="multiple" size="5" style="width: 60%">
+                                            </select>
+                                            <span>Type within the box to search and preselect lab values for the rule</span> 
+                                        </div>
+                                    </div>
+                                </div>                                
+                                <div class="ruleconditioncomponent"></div>
+                                <div class="addAnother">
+                                    <button>Add another subcategory</button>
+                                </div>
+                                <div align="right" style="margin:10px">
+                                    <button class="saveEdit">Save</button>&nbsp;&nbsp;<button class="reset">Reset</button>&nbsp;&nbsp;<button class="delete">Delete</button>&nbsp;&nbsp;
+                                </div>
+                            </div> <!--End of Edit Rule-->
+                            <div style='margin:10px'><button class="export">Export All Rules</button></div>
+					   </div>	                        
+				    </div>
+			    </div> <!-- End of tab-2 -->
+                <div id="tab-3" class="tab-content">
+                    <!--<div><button style='background-color:green'>Test based on created rules</button>&nbsp;<button style='background-color:grey'>Test based on custom rules/labvalues from file</button></div>-->
+                    <div class="test" style='position:relative;'>
+                        <div style='position:absolute;width:25%;margin:10px;overflow:auto'>
+                            <b>Step 1: Select rules to test</b><br/>
+                            <input type="checkbox" class='checkrule'/>Select All
+                            <div class="testrulesdiv" style="margin:2px;border:1px solid">                                                                
+                            </div>
+                        </div>                        
+                        <div style='position:absolute;width:40%;left:25%;margin:10px'>
+                            <b>Step 2: Fill out lab values</b>
+                            <div class='labvalueformdiv' style="margin:2px">                                                          
+                            </div>
+                        </div>
+                        <div style='position:absolute;width:35%;left:65%;margin:10px'>
+                            <b>Step 3: <button class="executerules">Execute rules</button></b>
+                            <div class="testresultdiv">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+		</div>		
+	</body>
 </html>

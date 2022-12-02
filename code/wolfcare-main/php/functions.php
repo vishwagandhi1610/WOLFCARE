@@ -99,6 +99,22 @@
         $_SESSION['name'] = $row['first_name']." ".$row['last_name'];
         
     }
+    
+    function homepage_doc_info(){
+        $servername="localhost";
+        $username="root";
+        $password = "";
+        $dbname="kj_mini";
+        $conn = mysqli_connect($servername,$username,$password,$dbname);
+        // echo $_SESSION['homepage'];
+        $homepage = $_SESSION['doctor_email'];
+        $sql = "SELECT * FROM doctors
+                WHERE email = '$homepage'";
+        $result = mysqli_query($conn,$sql);
+        $row = mysqli_fetch_assoc($result);
+        //$_SESSION['doctor_id']  = $row['doc_id'];
+        
+    }
 
     function check_working($check_text){
         echo $check_text;

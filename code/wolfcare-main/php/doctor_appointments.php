@@ -14,7 +14,16 @@
         <div class = "center-div">
             <div class="table-responsive">
                 <table>
-                   
+                    <thead>
+                        <tr>
+                            <!-- <th>Id</th> -->
+                            <th>Name</th>
+                            <th>Doctor Id</th>
+                            <th>Appointment Date</th>
+                            <th>Appointment Time</th>
+                        </tr>
+                    </thead>
+
                     <tbody>
                         <?php  
                             session_start();

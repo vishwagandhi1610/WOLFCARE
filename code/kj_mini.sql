@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Oct 06, 2022 at 04:19 PM
+-- Generation Time: Dec 03, 2022 at 10:03 PM
 -- Server version: 10.4.25-MariaDB
 -- PHP Version: 7.4.30
 
@@ -27,18 +27,17 @@ SET time_zone = "+00:00";
 -- Table structure for table `admin`
 --
 
--- CREATE TABLE `admin` (
---   `username` varchar(20) NOT NULL,
---   `email` varchar(20) NOT NULL,
---   `pass_word` varchar(30) NOT NULL
--- ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
+CREATE TABLE `admin` (
+  `email` varchar(20) NOT NULL,
+  `pass_word` varchar(20) NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 
 --
 -- Dumping data for table `admin`
 --
 
--- INSERT INTO `admin` (`username`, `email`, `pass_word`) VALUES
--- ('manan', 'mrpatel8@ncsu.edu', 'manan');
+INSERT INTO `admin` (`email`, `pass_word`) VALUES
+('admin@ncsu.edu', 'admin');
 
 -- --------------------------------------------------------
 
@@ -59,7 +58,10 @@ CREATE TABLE `appointment` (
 --
 
 INSERT INTO `appointment` (`id`, `username`, `doc_id`, `apoin_date`, `apoin_time`) VALUES
-(0, 'manan', 676, '2022-10-06', '11:45:00');
+(0, 'manan', 676, '2022-10-06', '11:45:00'),
+(0, 'manan', 18, '2022-10-27', '15:29:00'),
+(0, 'manan', 2, '2022-10-12', '14:51:00'),
+(0, '', 9, '2022-11-30', '17:00:00');
 
 -- --------------------------------------------------------
 
@@ -74,29 +76,29 @@ CREATE TABLE `doctors` (
   `doc_type` varchar(20) NOT NULL,
   `doc_phone` varchar(20) NOT NULL,
   `doc_location` varchar(20) NOT NULL,
-  `doc_yoe` int(20) NOT NULL
+  `doc_yoe` int(20) NOT NULL,
+  `email` varchar(20) NOT NULL,
+  `pass_word` varchar(20) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 
 --
 -- Dumping data for table `doctors`
 --
 
-INSERT INTO `doctors` (`doc_id`, `doc_fname`, `doc_lname`, `doc_type`, `doc_phone`, `doc_location`, `doc_yoe`) VALUES
-('676', 'Ravi', 'Ghevariya', 'MBBS', '1234567890', 'Raleigh', 29),
-('9', 'Dhruv', 'Patel', 'Heart Surgeon', '9846486276', 'London', 11),
-('18', 'Manan', 'Patel', 'Neuro Surgeon', '9998686888', 'New York', 9),
-('345', 'Divya', 'Giridhar', 'Radiologists', '9374826785', 'Seattle', 2),
-('56', 'Shreyas', 'Titus', 'Pediatricians', '8728492678', 'New Orleans', 7),
-('12', 'Alex', 'Lee', 'Dentist', '987654321', 'New Jersy', 5),
-('9', 'Mike', 'D', 'Obstetricians', '3928654755', 'Chicago', 8),
-('3', 'Louis', 'N', 'Anesthesiologists', '2873645277', 'Cary', 21),
-('7', 'Charl', 'Brown', 'Cardiologist', '7722839488', 'California', 30),
-('5', 'Jane', 'Carl', 'Pulmonologist', '9933847266', 'Texas', 5),
-('34', 'Grace', 'Knaf', 'Gastroenterologist', '3827499912', 'Washington', 7),
-('1', 'Mary', 'Jane', 'Nephrologist', '3299872637', 'Detroit', 4),
-('32', 'Michael', 'Una', 'Endocrinologist', '9982736647', 'Indiana', 8),
-('2', 'Sophie', 'Baker', 'Dermatologist', '9918273677', 'Newark', 4),
-('8', 'Victoria', 'Bell', 'Psychiatrist', '9783745566', 'Charlotte', 5);
+INSERT INTO `doctors` (`doc_id`, `doc_fname`, `doc_lname`, `doc_type`, `doc_phone`, `doc_location`, `doc_yoe`, `email`, `pass_word`) VALUES
+('676', 'Ravi', 'Ghevariya', 'MBBS', '9876543210', 'Surat', 29, 'ravi@doctors', 'ravi'),
+('9', 'Dhruv', 'Patel', 'Heart Surgeon', '9846486276', 'London', 11, 'dhruv@doctors', 'dhruv'),
+('18', 'Manan', 'Patel', 'Neuro Surgeon', '9998686888', 'New York', 9, 'manan@doctors', 'manan'),
+('345', 'Divya', 'Giridhar', 'Radiologists', '9374826785', 'Seattle', 2, 'divya@doctors', 'divya'),
+('56', 'Shreyas', 'Titus', 'Pediatricians', '8728492678', 'New Orleans', 7, '', ''),
+('3', 'Louis', 'N', 'Anesthesiologists', '2873645277', 'Cary', 21, '', ''),
+('7', 'Charl', 'Brown', 'Cardiologist', '7722839488', 'California', 30, '', ''),
+('5', 'Jane', 'Carl', 'Pulmonologist', '9933847266', 'Texas', 5, '', ''),
+('34', 'Grace', 'Knaf', 'Gastroenterologist', '3827499912', 'Washington', 7, '', ''),
+('1', 'Mary', 'Jane', 'Nephrologist', '3299872637', 'Detroit', 4, '', ''),
+('32', 'Michael', 'Una', 'Endocrinologist', '9982736647', 'Indiana', 8, '', ''),
+('2', 'Sophie', 'Baker', 'Dermatologist', '9918273677', 'Newark', 4, '', ''),
+('8', 'Victoria', 'Bell', 'Psychiatrist', '9783745566', 'Charlotte', 5, '', '');
 
 -- --------------------------------------------------------
 
@@ -121,7 +123,8 @@ CREATE TABLE `users` (
 INSERT INTO `users` (`username`, `first_name`, `last_name`, `phone`, `gender`, `email`, `pass_word`) VALUES
 ('manan', 'Manan', 'Patel', 9998686888, 'male', 'mrpatel8@ncsu.edu', 'manan'),
 ('', '', '', 0, 'Others', '', ''),
-('abcxyz', 'ABC', 'XYZ', 123456789, 'Male', 'abc@ncsu.edu', '123');
+('abcxyz', 'ABC', 'XYZ', 123456789, 'Male', 'abc@ncsu.edu', '123'),
+('abcxyz', 'abc', 'xyz', 1111111111, 'Male', 'abc@ncsu.edu', 'abc');
 COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;

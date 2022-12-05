@@ -201,7 +201,7 @@ https://user-images.githubusercontent.com/30078834/194672106-53b41cd8-fc84-40a3-
 
 <hr>
 <br>
-
+<p ><img src="/images/Untitled Diagram.drawio (1).png">
 <h2 id = "documentation"> Documentation 🖋️ </h2>
 <a href="https://github.com/divyagiridhar/SE-Group-25-WolfCare/blob/main/documentation/home.md">Home Page</a>
 <br>

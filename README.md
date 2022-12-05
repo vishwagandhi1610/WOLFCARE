@@ -36,10 +36,10 @@
     <img src="https://img.shields.io/github/commit-activity/w/divyagiridhar/SE-Group-25-WolfCare?color=blueviolet">
   </a>
   <a href="https://github.com/divyagiridhar/SE-Group-25-WolfCare/issues">
-    <img src="https://img.shields.io/github/issues-raw/divyagiridhar/SE-Group-25-WolfCare?color=red">
+    <img src="https://img.shields.io/github/issues-raw/vishwagandhi1610/SEPRO2GROUP44?color=red">
   </a>
   <a href="https://github.com/divyagiridhar/SE-Group-25-WolfCare/issues?q=is%3Aissue+is%3Aclosed">
-    <img src="https://img.shields.io/github/issues-closed-raw/divyagiridhar/SE-Group-25-WolfCare?color=success">
+    <img src="https://img.shields.io/github/issues-closed-raw/vishwagandhi1610/SEPRO2GROUP44?color=success">
   </a>
   <a href="https://github.com/divyagiridhar/SE-Group-25-WolfCare/pulls">
     <img src="https://img.shields.io/github/issues-pr/divyagiridhar/SE-Group-25-WolfCare?color=orange">

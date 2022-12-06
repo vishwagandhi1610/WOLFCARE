@@ -155,3 +155,15 @@ The new features, that we added are an admin panel which gives us the ability to
 > Code :
 <p></p>
 &nbsp;   To see code click<a href="https://github.com/vishwagandhi1610/SEPRO2GROUP44/blob/main/code/wolfcare-main/php/show_appointments.php"> here</a>.
+
+## SCALABILITY
+
+The project can be scaled by adding the cloud database for storing the data from the user. By doing that if multiple requests are being made than the server gets the maximum amount of load and can crack. So by implementing it we can save the server from crashing and load balancer can also be added to balance the amount of requests that are coming. 
+
+<img src = "https://github.com/vishwagandhi1610/SEPRO2GROUP44/blob/main/images/Untitled%20Diagram.drawio%20(1).png">
+
+## VIDEO CALL FEATURE
+
+The user is now able to contact doctor virtually through a video call as shown below.
+
+<img src = "https://github.com/vishwagandhi1610/SEPRO2GROUP44/blob/main/images/Video%20call%20with%20doctor.PNG">

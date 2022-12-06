@@ -106,7 +106,7 @@ https://user-images.githubusercontent.com/54198410/194599349-2d8e7412-777e-4f72-
 <br>
 <h2 id = "flowchart"> Flowchart ⏬ </h2>
 <div align = "center">
-  <img style="height:700px; width:500px;" src = "/images/Flowchartblack.png">
+  <img style="height:700px; width:500px;" src = "https://github.com/vishwagandhi1610/SEPRO2GROUP44/blob/main/images/flowchart.png">
 </div>
 <br>
 

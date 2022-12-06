@@ -17,16 +17,16 @@ Total Score:
 |Docs: short video, animated, hosted on your repo. That convinces people why they want to work on your code.| 3 | README.md | 
 |Use of version control tools| 3 | Github
 |Use of style checkers | 3 | README.md |
-|Use of code formatters. | 3 |  |
+|Use of code formatters. | 3 | Github |
 |Use of syntax checkers. | 3 | README.md |
 |Use of code coverage | 3 | README.md |
 |Other automated analysis tools| 3 |  |
-|Test cases exist| 3 | tests folder |
+|Test cases exist| 3 | tests folder | tests
 |Test cases are routinely executed| 3 | Code Coverage |
 |The files CONTRIBUTING.md lists coding standards and lots of tips on how to extend the system without screwing things up| 3 | Home page of the repository (CONTRIBUTING.md) |
 |Issues are discussed before they are closed| 3 | Issues tab |
 |Chat channel: exists| 3 | Home page of the repository |
-|Test cases: a large proportion of the issues related to handling failing cases.| 3 |  |
+|Test cases: a large proportion of the issues related to handling failing cases.| 3 | Issues |
 |Evidence that the whole team is using the same tools: everyone can get to all tools and files| 3 | Github Repository
 |Evidence that the whole team is using the same tools (e.g. config files in the repo, updated by lots of different people)| 3 | README.md
 |Evidence that the whole team is using the same tools (e.g. tutor can ask anyone to share screen, they demonstrate the system running on their computer)| 3 | GH Insights (Everyone contributed so has access of the project)

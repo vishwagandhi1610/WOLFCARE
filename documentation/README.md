@@ -53,7 +53,7 @@ The new features, that we added are an admin panel which gives us the ability to
 
 > Code :
 <p></p>
-&nbsp;   To see code click<a href="https://github.com/divyagiridhar/SE-Group-25-WolfCare/blob/main/code/wolfcare-main/html/login-options.html"> here</a>.
+&nbsp;   To see code click<a href="https://github.com/vishwagandhi1610/SEPRO2GROUP44/blob/main/code/wolfcare-main/html/login-options.html"> here</a>.
 
 
 
@@ -73,7 +73,7 @@ The new features, that we added are an admin panel which gives us the ability to
 
 > Code :
 <p></p>
-&nbsp;   To see code click<a href="https://github.com/divyagiridhar/SE-Group-25-WolfCare/blob/main/code/wolfcare-main/php/temp_homepage2.php"> here</a>.
+&nbsp;   To see code click<a href="https://github.com/vishwagandhi1610/SEPRO2GROUP44/blob/main/code/wolfcare-main/php/temp_homepage2.php"> here</a>.
 
 
 
@@ -93,7 +93,7 @@ The new features, that we added are an admin panel which gives us the ability to
 
 > Code :
 <p></p>
-&nbsp;   To see code click<a href="https://github.com/divyagiridhar/SE-Group-25-WolfCare/blob/main/code/wolfcare-main/php/temp_homepage2.php"> here</a>.
+&nbsp;   To see code click<a href="https://github.com/vishwagandhi1610/SEPRO2GROUP44/blob/main/code/wolfcare-main/php/temp_homepage2.php"> here</a>.
 
 
 
@@ -113,7 +113,7 @@ The new features, that we added are an admin panel which gives us the ability to
 
 > Code :
 <p></p>
-&nbsp;   To see code click<a href="https://github.com/divyagiridhar/SE-Group-25-WolfCare/blob/main/code/wolfcare-main/html/login.html"> here</a>.
+&nbsp;   To see code click<a href="https://github.com/vishwagandhi1610/SEPRO2GROUP44/blob/main/code/wolfcare-main/html/login.html"> here</a>.
 
 
 
@@ -136,7 +136,7 @@ The new features, that we added are an admin panel which gives us the ability to
 
 > Code :
 <p></p>
-&nbsp;   To see code click<a href="https://github.com/divyagiridhar/SE-Group-25-WolfCare/blob/main/code/wolfcare-main/php/temp_homepage2.php"> here</a>.
+&nbsp;   To see code click<a href="https://github.com/vishwagandhi1610/SEPRO2GROUP44/blob/main/code/wolfcare-main/php/temp_homepage2.php"> here</a>.
 
 &nbsp;
 <h1 align="center"> Welcome to Search feature </h1>
@@ -154,4 +154,4 @@ The new features, that we added are an admin panel which gives us the ability to
 
 > Code :
 <p></p>
-&nbsp;   To see code click<a href="https://github.com/divyagiridhar/SE-Group-25-WolfCare/blob/main/code/wolfcare-main/php/show_appointments.php"> here</a>.
+&nbsp;   To see code click<a href="https://github.com/vishwagandhi1610/SEPRO2GROUP44/blob/main/code/wolfcare-main/php/show_appointments.php"> here</a>.

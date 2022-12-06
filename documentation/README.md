@@ -61,7 +61,7 @@ The new features, that we added are an admin panel which gives us the ability to
 <h1 align="center"> Welcome to the Admin Panel of our Website </h1>
 <br>
 
-<img src="/images/new images/admin page.jpeg"> 
+<img src="/documentation/admin page.jpeg"> 
 
 <h3> About Doctor Page </h2>
 

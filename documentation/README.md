@@ -34,3 +34,124 @@ The new features, that we added are an admin panel which gives us the ability to
 > Code :
 <p></p>
 &nbsp;   To see code click<a href="https://github.com/divyagiridhar/SE-Group-25-WolfCare/blob/main/code/wolfcare-main/html/main.html"> here</a>.
+
+&nbsp;
+<h1 align="center"> Welcome Page of the Website </h1>
+<br>
+
+<img src="/documentation/Welcome Page.png"> 
+
+<h3> About Welcome Page </h2>
+
+> Here there are different options available for different users : 
+<ul>
+  <li> Login Button &rarr; Here the respective patient can login. </li>
+  <li> Register Button &rarr; Register tab for new users. </li>
+  <li> Doctor Button &rarr; Doctors can login through this button. </li>
+  <li> Admin Button &rarr; Admin can login through this button. </li>
+</ul>
+
+> Code :
+<p></p>
+&nbsp;   To see code click<a href="https://github.com/divyagiridhar/SE-Group-25-WolfCare/blob/main/code/wolfcare-main/html/login-options.html"> here</a>.
+
+
+
+&nbsp;
+<h1 align="center"> Welcome to the Admin Panel of our Website </h1>
+<br>
+
+<img src="/images/new images/admin page.jpeg"> 
+
+<h3> About Doctor Page </h2>
+
+> Here there are several features : 
+<ul>
+  <li> Symtoms &rarr; Here the admin can add new symtoms </li>
+  <li> Appointment &rarr; Once the patient books an appointment, you will be able to view it here. </li>
+</ul>
+
+> Code :
+<p></p>
+&nbsp;   To see code click<a href="https://github.com/divyagiridhar/SE-Group-25-WolfCare/blob/main/code/wolfcare-main/php/temp_homepage2.php"> here</a>.
+
+
+
+&nbsp;
+<h1 align="center"> Welcome to the Doctor Page of our Website </h1>
+<br>
+
+<img src="/images/new images/doctor page.jpeg"> 
+
+<h3> About Doctor Page </h2>
+> Here there are several features : 
+<ul>
+  <li> My Profile &rarr; Here you will be able to see your personal details and also edit it. </li>
+  <li> Appointment &rarr; Once the patient books an appointment, you will be able to view it here. </li>
+  <li> Join the Call &rarr; Once the patient books an appointment, the doctor can join the call through our video streaming service. </li>
+</ul>
+
+> Code :
+<p></p>
+&nbsp;   To see code click<a href="https://github.com/divyagiridhar/SE-Group-25-WolfCare/blob/main/code/wolfcare-main/php/temp_homepage2.php"> here</a>.
+
+
+
+&nbsp;
+<h1 align="center"> Welcome to the Login Page </h1>
+<br>
+
+<img src="/documentation/login.png">
+
+<h3> About Login Page </h2>
+
+> Here you can login : 
+<ul>
+  <li> New User &rarr; Click on Register </li>
+  <li> Existing User &rarr; Enter your credential to login </li>
+</ul>
+
+> Code :
+<p></p>
+&nbsp;   To see code click<a href="https://github.com/divyagiridhar/SE-Group-25-WolfCare/blob/main/code/wolfcare-main/html/login.html"> here</a>.
+
+
+
+&nbsp;
+<h1 align="center"> Welcome to the Patient's Home Page of our Website </h1>
+<br>
+
+<img src="/documentation/User Home Page.png">
+
+<h3> About Patient's Home Page </h2>
+
+> Here there are several features : 
+<ul>
+  <li> My Profile &rarr; Here you will be able to see your personal details and also edit it. </li>
+  <li> Symptoms &rarr; Here you can check what kind of disease you have by entering the symptoms you feel. </li>
+  <li> Appointment &rarr; Once you book an appointment, you will be able to view it here. </li>
+  <li> Join the Call &rarr; Start online video consultatoin with the doctor through our video streaming service. </li>
+  <li> Search &rarr; After you find out what disease you might have, you can search for the doctors using this feature. </li>
+</ul>
+
+> Code :
+<p></p>
+&nbsp;   To see code click<a href="https://github.com/divyagiridhar/SE-Group-25-WolfCare/blob/main/code/wolfcare-main/php/temp_homepage2.php"> here</a>.
+
+&nbsp;
+<h1 align="center"> Welcome to Search feature </h1>
+<br>
+
+<img src="/documentation/Search.jpeg">
+
+<h3> About Search Feature </h2>
+
+> Here you can search for the doctors according to their speciality or location : 
+> 
+<ul>
+  <li> To Search &rarr; Click on Search Bar </li>
+</ul>
+
+> Code :
+<p></p>
+&nbsp;   To see code click<a href="https://github.com/divyagiridhar/SE-Group-25-WolfCare/blob/main/code/wolfcare-main/php/show_appointments.php"> here</a>.

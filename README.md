@@ -150,12 +150,12 @@ https://user-images.githubusercontent.com/54198410/194599349-2d8e7412-777e-4f72-
     <td colspan = "2">
       <a href = "/documentation/welcome.png">6. Admin Page </a>
       <p> </p>
-        <img src="/images/new images/admin page.jpeg">    
+        <img src="/images/admin page.jpeg">    
      </td>
      <td colspan = "2">
       <a href = "/documentation/login.png">7. Doctor Page </a>
       <p> </p>  
-        <img src="/images/new images/doctor page.jpeg">    
+        <img src="/images/doctor page.jpeg">    
      </td>
   </tr>
   </table>

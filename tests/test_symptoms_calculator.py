@@ -22,3 +22,7 @@ class testReturnValues(unittest.TestCase):
         else: # pragma: no cover
             temp = False
         self.assertEqual(temp, True) # pragma: no cover
+
+    def test_hyperCholesterolemia(self):
+        temp = a.hyperCholesterolemia(160) # pragma: no cover
+        self.assertEqual(temp, False)

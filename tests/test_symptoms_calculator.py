@@ -19,3 +19,6 @@ class testReturnValues(unittest.TestCase):
         temp1, temp2, temp3, temp4 = a.kidneyInjury(1.5, 1.1) # pragma: no cover
         if ((temp1 == True) and (temp2 == False) and (temp3 == False) and (temp4 == True)): # pragma: no cover
             temp = True
+        else: # pragma: no cover
+            temp = False
+        self.assertEqual(temp, True) # pragma: no cover

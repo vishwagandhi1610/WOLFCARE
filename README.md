@@ -184,6 +184,11 @@ https://user-images.githubusercontent.com/54198410/194599349-2d8e7412-777e-4f72-
     <p> 4. Adding New Symtoms </p>
     <img src="/images/adding rules.jpeg">
   </thead>
+  
+  <thead>
+    <p> 5. Video Call with Doctor </p>
+    <img src="/images/new images/Video call with doctor.PNG">
+  </thead>
   </table>
 <br>
 

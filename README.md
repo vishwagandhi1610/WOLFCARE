@@ -20,20 +20,20 @@
   <a href="https://github.com/divyagiridhar/SE-Group-25-WolfCare/actions/workflows/lint.yml" > 
     <img src="https://github.com/divyagiridhar/SE-Group-25-WolfCare/actions/workflows/lint.yml/badge.svg"/> 
   </a>
-  <a href="https://github.com/divyagiridhar/SE-Group-25-WolfCare.git">
-    <img src="https://img.shields.io/github/repo-size/divyagiridhar/SE-Group-25-WolfCare?color=brightgreen">
+  <a href="https://github.com/vishwagandhi1610/SEPRO2GROUP44.git">
+    <img src="https://img.shields.io/github/repo-size/vishwagandhi1610/SEPRO2GROUP44?color=brightgreen">
   </a>
   <a href="https://zenodo.org/badge/latestdoi/544594767">
     <img src="https://zenodo.org/badge/544594767.svg" alt="DOI">
   </a>
-  <a href="https://github.com/divyagiridhar/SE-Group-25-WolfCare/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/divyagiridhar/SE-Group-25-WolfCare">
+  <a href="https://github.com/vishwagandhi1610/SEPRO2GROUP44/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/vishwagandhi1610/SEPRO2GROUP44">
   </a>
-  <a href="https://github.com/divyagiridhar/SE-Group-25-WolfCare/graphs/contributors">
-    <img src="https://img.shields.io/github/contributors/divyagiridhar/SE-Group-25-WolfCare">
+  <a href="https://github.com/vishwagandhi1610/SEPRO2GROUP44/graphs/contributors">
+    <img src="https://img.shields.io/github/contributors/vishwagandhi1610/SEPRO2GROUP44">
   </a>
-  <a href="https://github.com/divyagiridhar/SE-Group-25-WolfCare/graphs/commit-activity">
-    <img src="https://img.shields.io/github/commit-activity/w/divyagiridhar/SE-Group-25-WolfCare?color=blueviolet">
+  <a href="https://github.com/vishwagandhi1610/SEPRO2GROUP44/graphs/commit-activity">
+    <img src="https://img.shields.io/github/commit-activity/w/vishwagandhi1610/SEPRO2GROUP44?color=blueviolet">
   </a>
   <a href="https://github.com/divyagiridhar/SE-Group-25-WolfCare/issues">
     <img src="https://img.shields.io/github/issues-raw/vishwagandhi1610/SEPRO2GROUP44?color=red">
@@ -41,23 +41,23 @@
   <a href="https://github.com/divyagiridhar/SE-Group-25-WolfCare/issues?q=is%3Aissue+is%3Aclosed">
     <img src="https://img.shields.io/github/issues-closed-raw/vishwagandhi1610/SEPRO2GROUP44?color=success">
   </a>
-  <a href="https://github.com/divyagiridhar/SE-Group-25-WolfCare/pulls">
-    <img src="https://img.shields.io/github/issues-pr/divyagiridhar/SE-Group-25-WolfCare?color=orange">
+  <a href="https://github.com/vishwagandhi1610/SEPRO2GROUP44/pulls">
+    <img src="https://img.shields.io/github/issues-pr/vishwagandhi1610/SEPRO2GROUP44?color=orange">
   </a>
-  <a href="https://github.com/divyagiridhar/SE-Group-25-WolfCare/pulls?q=is%3Apr+is%3Aclosed">
-    <img src="https://img.shields.io/github/issues-pr-closed/divyagiridhar/SE-Group-25-WolfCare?color=green">
+  <a href="https://github.com/vishwagandhi1610/SEPRO2GROUP44/pulls?q=is%3Apr+is%3Aclosed">
+    <img src="https://img.shields.io/github/issues-pr-closed/vishwagandhi1610/SEPRO2GROUP44?color=green">
   </a>
-  <a href="https://github.com/divyagiridhar/SE-Group-25-WolfCare/tags">
-    <img src="https://img.shields.io/github/v/tag/divyagiridhar/SE-Group-25-WolfCare?color=9cf">
+  <a href="https://github.com/vishwagandhi1610/SEPRO2GROUP44/tags">
+    <img src="https://img.shields.io/github/v/tag/vishwagandhi1610/SEPRO2GROUP44?color=9cf">
   </a>
-  <a href="https://github.com/divyagiridhar/SE-Group-25-WolfCare">
-    <img src="https://img.shields.io/github/languages/count/divyagiridhar/SE-Group-25-WolfCare">
+  <a href="https://github.com/vishwagandhi1610/SEPRO2GROUP44">
+    <img src="https://img.shields.io/github/languages/count/vishwagandhi1610/SEPRO2GROUP44">
   </a>
-  <a href="https://github.com/divyagiridhar/SE-Group-25-WolfCare">
-    <img src="https://img.shields.io/github/languages/top/divyagiridhar/SE-Group-25-WolfCare?color=ff69b4">
+  <a href="https://github.com/vishwagandhi1610/SEPRO2GROUP44">
+    <img src="https://img.shields.io/github/languages/top/vishwagandhi1610/SEPRO2GROUP44?color=ff69b4">
   </a>
-  <a href="https://github.com/divyagiridhar/SE-Group-25-WolfCare/network/members">
-    <img src="https://img.shields.io/github/forks/divyagiridhar/SE-Group-25-WolfCare?style=social">
+  <a href="https://github.com/vishwagandhi1610/SEPRO2GROUP44/network/members">
+    <img src="https://img.shields.io/github/forks/vishwagandhi1610/SEPRO2GROUP44?style=social">
   </a>
 </div>
 

@@ -187,7 +187,7 @@ https://user-images.githubusercontent.com/54198410/194599349-2d8e7412-777e-4f72-
   
   <thead>
     <p> 5. Video Call with Doctor </p>
-    <img src="/images/new images/Video call with doctor.PNG">
+    <img src="/images/Video call with doctor.PNG">
   </thead>
   </table>
 <br>

@@ -33,7 +33,7 @@ The new features, that we added are an admin panel which gives us the ability to
 
 > Code :
 <p></p>
-&nbsp;   To see code click<a href="https://github.com/divyagiridhar/SE-Group-25-WolfCare/blob/main/code/wolfcare-main/html/main.html"> here</a>.
+&nbsp;   To see code click<a href="https://github.com/vishwagandhi1610/SEPRO2GROUP44/blob/main/code/wolfcare-main/html/main.html"> here</a>.
 
 &nbsp;
 <h1 align="center"> Welcome Page of the Website </h1>

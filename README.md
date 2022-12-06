@@ -180,6 +180,10 @@ https://user-images.githubusercontent.com/54198410/194599349-2d8e7412-777e-4f72-
         <img src="/images/db3.png">    
      </td>
   </tr>
+  <thead>
+    <p> 4. Adding New Symtoms </p>
+    <img src="/images/adding rules.jpeg">
+  </thead>
   </table>
 <br>
 

@@ -1,4 +1,4 @@
-<p align="center"><img src="/images/ProjectBanner.png">
+<p align="center"><img src="/images/FE80ED0F-8AF4-48E2-BF62-5A825BE85FF4.jpeg">
   
 <h1 align="center"> 🩺WolfCare </h1>
   

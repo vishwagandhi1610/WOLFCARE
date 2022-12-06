@@ -21,7 +21,7 @@ The new features, that we added are an admin panel which gives us the ability to
 <h1 align="center"> Welcome to the Main Page of our Website </h1>
 <br>
 
-<img src="/documentation/main.png">
+<img src="/docs/main.png">
 
 <h3> About Main Page </h2>
 
@@ -39,7 +39,7 @@ The new features, that we added are an admin panel which gives us the ability to
 <h1 align="center"> Welcome Page of the Website </h1>
 <br>
 
-<img src="/documentation/Welcome Page.png"> 
+<img src="/docs/Welcome Page.png"> 
 
 <h3> About Welcome Page </h2>
 

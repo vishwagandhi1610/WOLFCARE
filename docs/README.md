@@ -61,7 +61,7 @@ The new features, that we added are an admin panel which gives us the ability to
 <h1 align="center"> Welcome to the Admin Panel of our Website </h1>
 <br>
 
-<img src="/documentation/admin page.jpeg"> 
+<img src="/docs/admin page.jpeg"> 
 
 <h3> About Doctor Page </h2>
 
@@ -81,7 +81,7 @@ The new features, that we added are an admin panel which gives us the ability to
 <h1 align="center"> Welcome to the Doctor Page of our Website </h1>
 <br>
 
-<img src="/documentation/doctor page.jpeg"> 
+<img src="/docs/doctor page.jpeg"> 
 
 <h3> About Doctor Page </h2>
 > Here there are several features : 
@@ -101,7 +101,7 @@ The new features, that we added are an admin panel which gives us the ability to
 <h1 align="center"> Welcome to the Login Page </h1>
 <br>
 
-<img src="/documentation/login.png">
+<img src="/docs/login.png">
 
 <h3> About Login Page </h2>
 
@@ -121,7 +121,7 @@ The new features, that we added are an admin panel which gives us the ability to
 <h1 align="center"> Welcome to the Patient's Home Page of our Website </h1>
 <br>
 
-<img src="/documentation/home.png">
+<img src="/docs/home.png">
 
 <h3> About Patient's Home Page </h2>
 
@@ -142,7 +142,7 @@ The new features, that we added are an admin panel which gives us the ability to
 <h1 align="center"> Welcome to Search feature </h1>
 <br>
 
-<img src="/documentation/search.png">
+<img src="/docs/search.png">
 
 <h3> About Search Feature </h2>
 
